@@ -1,0 +1,2 @@
+- Objects are created on the heap. Java's heap is garbage collectible so JVM automatically allocates memory and frees that memory when it sees that an object can no longer be used.
+- After creating an object if you set the only referance to that object to `null` the object is then eligible for garbage collection since it no longer can be accessed

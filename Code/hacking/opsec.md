@@ -1,0 +1,1 @@
+- Use VPN with [[UFW]] rules that disallow any access not through the vpn

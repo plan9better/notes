@@ -1,0 +1,2 @@
+- to install a python program package globally - pipx
+- 

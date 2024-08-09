@@ -1,0 +1,10 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "useTab": false,
+  "alwaysUpdateLinks": true
+}

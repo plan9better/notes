@@ -1,0 +1,2 @@
+- Main method is the entry to the app, an app must have a psvm method.
+- Compile a .java file to .class with `%javac` and run it with `%java`, you need to have JDK to compile
