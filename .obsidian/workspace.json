@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Lua_Language/Lua_Language.md",
+                "file": "network/network.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "6902049c48b72fa8",
         "type": "tabs",
-        "dimension": 30.170454545454543,
+        "dimension": 30.170454545454547,
         "children": [
           {
             "id": "d893d58569a8a30e",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Lua_Language/Lua_Language.md",
+                "file": "network/network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Lua_Language/Lua_Language.md",
+                "file": "network/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Lua_Language/Lua_Language.md"
+                "file": "network/network.md"
               }
             }
           }
@@ -169,6 +169,8 @@
   },
   "active": "8d75094a26488116",
   "lastOpenFiles": [
+    "daily/10-08-2024.md",
+    "network/network.md",
     "Code/Lua_Language/Lua_Language.md",
     "Code/Lua_Language",
     "Code/Java_Language/HeadFirstJava.pdf",
@@ -201,8 +203,6 @@
     "Code/Blockchain",
     "Code/cloud/AWS/EC2.md",
     "Code",
-    "Code/cloud/AWS/Control groups.md",
-    "Code/Java_Language/Core_Concepts/JVM.md",
     "Code/Java_Language/Tools",
     "Code/Java_Language/Standard_Library"
   ]
