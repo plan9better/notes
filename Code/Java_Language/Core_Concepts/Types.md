@@ -4,7 +4,7 @@
 - variable name must start with a letter, underscore, or a dollar sign $
 - there are no object variables just object references
 - you can only put dogs in an array of type dog but you can put a byte into an int array this is known as `IMPLICIT WIDENING`
-# Primitive
+# Primitive table
 <table>
 <thead>
 <tr><td>Type</td><td>size</td><td>range</td></tr>
@@ -18,3 +18,11 @@
 <tr><td>float</td><td>32 bit</td><td>varies</td></tr>
 <tr><td>double</td><td>64 bit</td><td>varies</td></tr>
 </table>
+
+# Declaration and initialization
+- Instance variables get set to zero if not initialized after declaration 0, 0.0, false, null
+- Local variables have to be initialized before usage or the program won't compile
+# Comparison
+- Primitive types: `==`
+- Objects, to check if they refer to the same exact instance on the heap use == otherwise to check equality use `.equals()`
+- 

@@ -1,0 +1,3 @@
+- TOR encrypts and routes traffic through multiple (typically 3) layers of relays (nodes). The goal is for all TOR users to be indistinguishable from one another. Tor nodes are volunteer-operated and decentralized
+- VPN is controlled by a company and nodes are centralized.
+- "Who controlls the exit node controlls traffic" - The exit node can see unencrypted traffic since it needs to send it between you and the server. HTTPS mitigates this. The exit node can not see the source IP address (you) just the destination and traffic.

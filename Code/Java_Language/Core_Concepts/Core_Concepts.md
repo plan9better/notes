@@ -1,3 +1,9 @@
 - [[How_it_works]]
 - [[JVM]]
 - [[Program_Structure]]
+- [[Garbage_Collection]]
+- [[Types]]
+- [[Encapsulation]]
+- [[TDD| Test Driven Development (TDD)]]
+- [[Plan| Plan before writing code]]
+- 
