@@ -1,0 +1,10 @@
+- Standard Monero addresses:
+    - Typically 95 characters long
+    - Begin with the number 4
+    - Your Feather wallet and MyMonero wallet addresses are likely standard addresses
+- Integrated addresses:
+    - 106 characters long
+    - Combine a standard address with a payment ID
+- Subaddresses:
+    - Usually 95 characters long
+    - Begin with the number 8

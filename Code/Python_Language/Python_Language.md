@@ -1,1 +1,6 @@
-- [[Code/Python_Language/Tools/Tools|Tools]]
+# Python_Language
+
+```ccard
+type: folder_brief_live
+```
+ 

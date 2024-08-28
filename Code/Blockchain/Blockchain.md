@@ -1,3 +1,9 @@
+# Blockchain
+
+```ccard
+type: folder_brief_live
+```
+ 
 #blockchain
 # roadmap (by claude)
 Month 1-2:
@@ -25,3 +31,6 @@ Throughout:
 This roadmap assumes you can dedicate about 10-15 hours per week to blockchain studies alongside your university coursework. You can adjust the pace based on your schedule and learning speed.
 
 The plan starts with a general overview, moves to Ethereum-specific content, then covers Bitcoin for a broader perspective. It includes both theoretical learning and practical coding.
+
+- [[monero]]
+- 

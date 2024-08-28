@@ -1,0 +1,4 @@
+- Public / private key pair: `ssh-keygen` to generate. Put private key on client (in ~/.ssh)and public (.pub) on host into ~/.ssh/authorized_keys file.
+- [[sshd_config|Host config]]
+- [[ssh_config|Client config]]
+- 

@@ -1,0 +1,3 @@
+- `su -`
+- `usermod -aG sudo username`
+- logout and login

@@ -21,6 +21,8 @@ r (run)
 ```
 break foo
 break main.c:45
+info break      # list bp
+del (number)    # remove bp 
 ```
 
 ## look at variables
@@ -31,3 +33,8 @@ print foo (sizeof(foo))
 explore foo
 ```
 
+## check what functions are available
+```
+info functions
+disassemble (func name or address)
+```

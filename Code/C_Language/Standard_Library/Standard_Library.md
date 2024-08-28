@@ -1,2 +1,6 @@
-- [[Input_Output]]
-- [[String_Formatting]]
+# Standard_Library
+
+```ccard
+type: folder_brief_live
+```
+ 

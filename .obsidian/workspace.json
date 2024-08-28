@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "27827e7000c94f0f",
+        "id": "8eca4f4603bce69a",
         "type": "tabs",
-        "dimension": 69.82954545454545,
         "children": [
           {
-            "id": "8d75094a26488116",
+            "id": "88883bf3c39429a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "network/network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6902049c48b72fa8",
-        "type": "tabs",
-        "dimension": 30.170454545454547,
-        "children": [
-          {
-            "id": "d893d58569a8a30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/Java_Language/Core_Concepts/Garbage_Collection.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -89,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "2ab89c71ea98c826",
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "network/network.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,43 +139,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d75094a26488116",
+  "active": "88883bf3c39429a7",
   "lastOpenFiles": [
-    "daily/10-08-2024.md",
-    "network/network.md",
+    "Code/General/opcodes.md",
+    "Code/C_Language/Tools/gdb.md",
+    "Code/General/Executable_formats.md",
+    "Code/General/General.md",
+    "Code/Python_Language/Python_Language.md",
+    "Code/General",
     "Code/Lua_Language/Lua_Language.md",
+    "Code/Linux/Linux.md",
+    "Code/Java_Language/Java_Language.md",
+    "Code/cloud/cloud.md",
+    "Code/C_Language/C_Language.md",
+    "daily/28-08-2024.md",
+    "daily/27-08-2024.md",
+    "Code/C_Language/Tools/Tools.md",
+    "daily/25-08-2024.md",
+    "Code/Linux/server/ssh_config.md",
+    "Code/Linux/server/ssh.md",
+    "Code/Linux/server/sshd_config.md",
+    "Code/Linux/server/tailscale.md",
+    "Code/Linux/server/server.md",
+    "daily/19-08-2024.md",
+    "Code/Linux/server/shared_memory.md",
+    "roadmap/roadmap.md",
+    "daily/daily.md",
+    "Code/plans.md",
+    "Code/Python_Language/Tools/Tools.md",
+    "Code/projects/projects.md",
+    "Code/Linux/server",
+    "Code/Linux",
     "Code/Lua_Language",
     "Code/Java_Language/HeadFirstJava.pdf",
-    "Code/C_Language/Core_Concepts/Core_Concepts.md",
-    "Code/C_Language/C_Language.md",
-    "Code/Blockchain/Blockchain.md",
-    "Code/Java_Language/Java_Language.md",
-    "Code/hacking/opsec.md",
     "hardware",
-    "network",
-    "Code/Java_Language/Core_Concepts/Types.md",
-    "Code/Java_Language/Core_Concepts/Garbage_Collection.md",
-    "Code/Java_Language/Core_Concepts/How_it_works.md",
-    "daily/07-08-2024.md",
-    "Code/Java_Language/Core_Concepts/Core_Concepts.md",
-    "Code/Java_Language/Tools/Tools.md",
-    "Code/Java_Language/Standard_Library/Standard_Library.md",
-    "Code/C_Language/Standard_Library/Standard_Library.md",
-    "Code/Python_Language/Python_Language.md",
-    "Code/Python_Language/Tools/Tools.md",
-    "Code/Python_Language/Tools/Venv.md",
-    "Code/Python_Language/Tools/Pip.md",
+    "roadmap",
     "Code/Python_Language/Tools",
     "Code/Python_Language",
-    "Code/plans.md",
-    "Code/C_Language/Standard_Library/String_Formatting.md",
-    "Code/C_Language/Tools/Tools.md",
-    "Code/blockchain.md",
-    "Untitled.md",
-    "Code/Blockchain",
-    "Code/cloud/AWS/EC2.md",
-    "Code",
-    "Code/Java_Language/Tools",
-    "Code/Java_Language/Standard_Library"
+    "Code/Blockchain"
   ]
 }
