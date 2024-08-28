@@ -1,0 +1,3 @@
+nowadays the only ones used are ring 0 (kernel) and ring 3 (user mode), seg faults happen because a program tries to read memory not within it's scope but in kernel mode a program can read everything that's in memory so in ring 0 seg faults do not exist.
+
+in intel [[x86]] architecture there is a CPL (current privelage level) which can be read from the lowest 2 bits of the CS (code segment) register (11 or 00, for rings 3 and 0)

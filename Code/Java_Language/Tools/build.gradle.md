@@ -1,4 +1,4 @@
-`build.gradle` file for a Minecraft mod in detail:
+`build.[[gradle]]` file for a Minecraft mod in detail:
 
 ```gradle
 plugins {
@@ -10,7 +10,7 @@ plugins {
 This section defines the plugins used in the project:
 - `eclipse`: Generates Eclipse project files.
 - `maven-publish`: Allows publishing artifacts to Maven repositories.
-- `net.minecraftforge.gradle`: The Forge Gradle plugin, essential for Minecraft modding.
+- `net.minecraftforge.[[gradle]]`: The Forge [[gradle]] plugin, essential for Minecraft modding.
 
 ```gradle
 version = '1.0'
@@ -78,13 +78,13 @@ This `jar` block configures the JAR file creation:
 - The `Implementation-Timestamp` is dynamically set to the build time.
 
 Additional notes:
-- The Forge Gradle plugin adds many implicit tasks and configurations not visible in this file.
+- The Forge [[gradle]] plugin adds many implicit tasks and configurations not visible in this file.
 - It sets up the deobfuscation process, which is crucial for modding.
 - It configures the Java compilation process to work with Minecraft's obfuscated code.
 - It sets up the necessary classpath for compiling against Forge and Minecraft.
 
-This `build.gradle` file is relatively minimal. For more complex mods, you might see additional configurations like:
+This `build.[[gradle]]` file is relatively minimal. For more complex mods, you might see additional configurations like:
 - Custom tasks for processing resources or generating code.
 - Additional run configurations (e.g., for a dedicated server).
 - More complex dependency management.
-- Integration with other tools or services.
+- Integration with other [[Code/Java_Language/Tools/Tools|Tools]] or services.

@@ -1,6 +1,6 @@
 ## Goals
 - Be able to receive and send messages in a not "turn based" way
-- learn a bit about [[networking|networking]] and C
+- learn a bit about [[Code/networking/networking|networking]] and C
 ## TODO
 - Re-implement the messaging cuz broken
 - add a handshake at the start to exchange nicknames

@@ -6,14 +6,14 @@
 - [[Malware development]], get the [[hash cracker]] onto another system
 - [[raylib]] gui maybe connected to the [[minecraft mod]] and [[hash cracker]]
 - [[Game hacking]] make a esp aim bot for csgo / bot for an mmo
-- build a server with hub and switch on a seperate subnet
+- build a [[server]] with hub and switch on a seperate subnet
 # later
 - Hardware, sd card mp3 bluetooth player
 - [[pwnagotchi]]
 - get cracked at [[C_Language]]
 - try rust
  - docker
-- aws/other cloud
+- [[AWS]]/other [[cloud]]
 
 # maybe
 - Some AI/ML?
