@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "58df75babb1ea779",
+        "id": "86f672a77f4bfa65",
         "type": "tabs",
         "children": [
           {
-            "id": "5edf631454f56eaa",
+            "id": "5354d67eb9be05fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/31-08-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/31-08-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/31-08-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/31-08-2024.md"
+              }
             }
           }
         ]
@@ -140,44 +148,44 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5edf631454f56eaa",
+  "active": "5354d67eb9be05fe",
   "lastOpenFiles": [
-    "Code/General/architecture.md",
-    "Code/General/syscalls.md",
+    "Code/OS/Linux/bash.md",
+    "daily/31-08-2024.md",
+    "daily/30-08-2024.md",
+    "Code/OS/windows/powershell.md",
+    "Code/OS/windows",
+    "Code/OS/Windows.md",
+    "Code/OS/Linux.md",
+    "Code/OS/Linux",
+    "Code/reverse_engineering/reverse_engineering.md",
+    "Code/reverse_engineering/ELF.md",
+    "Code/reverse_engineering/Executable_formats.md",
+    "Code/reverse_engineering/software_interrupt.md",
+    "Code/reverse_engineering/architecture.md",
+    "Code/plans.md",
+    "reverse engeneering.md",
+    "Code/Java_Language/Java_Language.md",
+    "Code/reverse_engineering/hardware_interrupt.md",
+    "Code/reverse_engineering/syscalls.md",
+    "Code/reverse_engineering/security_rings.md",
+    "Code/reverse_engineering/opcodes.md",
+    "Code/reverse_engineering/scheduling.md",
+    "Code/reverse_engineering/execution.md",
+    "daily/29-08-2024.md",
+    "Code/Linux/Linux.md",
+    "Code/OS/VM/autounnatend.xml.md",
     "Code/asm/asm.md",
-    "Code/General/software_interrupt.md",
+    "Code/OS",
+    "Code/OS/VM",
+    "Code/Approaches/Approaches.md",
     "IP (instruciton pointer).md",
-    "Code/General/opcodes.md",
-    "Code/General/General.md",
-    "Code/General/execution.md",
     "Code/img/IVT.png",
-    "Code/General/security_rings.md",
-    "Code/cloud/cloud.md",
-    "Code/C_Language/C_Language.md",
-    "Code/Blockchain/Blockchain.md",
-    "Code/asm/Untitled.md",
     "Code/asm",
-    "Code/General/Executable_formats.md",
-    "Code/cloud/AWS/EC2.md",
-    "Code/cloud/AWS/Control groups.md",
-    "Code/cloud/AWS/AWS.md",
-    "Code/C_Language/Tools/Tools.md",
-    "Code/C_Language/Tools/gdb.md",
-    "Code/C_Language/Standard_Library/String_Formatting.md",
-    "Code/C_Language/Standard_Library/Input_Output.md",
-    "Code/C_Language/Standard_Library/Standard_Library.md",
-    "Code/C_Language/Core_Concepts/streams.md",
-    "Code/C_Language/Core_Concepts/networking.md",
-    "Code/C_Language/Core_Concepts/Core_Concepts.md",
-    "Code/Blockchain/Monero.md",
-    "Code/General",
+    "Code/reverse_engineering",
     "Code/Linux/server",
     "Code/Linux",
     "Code/Lua_Language",
-    "Code/Java_Language/HeadFirstJava.pdf",
-    "hardware",
-    "Code/networking",
-    "Code/Python_Language/Tools",
-    "Code/Python_Language"
+    "Code/Java_Language/HeadFirstJava.pdf"
   ]
 }

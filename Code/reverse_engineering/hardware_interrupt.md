@@ -1,0 +1,1 @@
+Occurs when you plug in a peripheral to the pc

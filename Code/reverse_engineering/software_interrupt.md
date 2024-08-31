@@ -1,3 +1,5 @@
+Along with [[hardware_interrupt]] are the 2 types interrupts
+
 Asking the kernel to stop whatever it's doing and do what i want it to.
 IVT (interrupt vector table) in [[x86]] and IDT (interrupt descriptor table) in [[x64]]  
 
