@@ -3,4 +3,5 @@
 ./program 2>&1 ( | grep test)
 
 # see redirected / piped stdout (duplicate output)
+echo "Hi" | tee file1 (file2 ...)
 ```

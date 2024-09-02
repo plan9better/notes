@@ -1,4 +1,4 @@
-[[ELF]] - [[Code/Linux/Linux]] executable (Executable linkable format)
+[[ELF]] - [[Linux]] executable (Executable linkable format)
 [[PE]] - Windows exe (Portable executable)
 [[AIF]] - ARM exe (Arm image file)
 

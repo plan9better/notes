@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/31-08-2024.md",
+                "file": "Code/OS/Linux/bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/31-08-2024.md",
+                "file": "Code/OS/Linux/bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/31-08-2024.md",
+                "file": "Code/OS/Linux/bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/31-08-2024.md"
+                "file": "Code/OS/Linux/bash.md"
               }
             }
           }
@@ -150,8 +150,22 @@
   },
   "active": "5354d67eb9be05fe",
   "lastOpenFiles": [
-    "Code/OS/Linux/bash.md",
+    "college",
+    "pwn",
+    "Code/OS/Linux/server/server.md",
+    "Code/OS/Linux/server/ssh/ssh.md",
+    "Code/networking/networking.md",
+    "Code/Lua_Language/Lua_Language.md",
+    "Code/C_Language/C_Language.md",
+    "Code/cloud/cloud.md",
+    "Code/hacking/hacking.md",
+    "Code/OS/Linux/server/sudo.md",
+    "Code/OS/Linux/Linux.md",
+    "Code/OS/Linux/server/ssh/sshd_config.md",
+    "Code/OS/Linux/server/ssh",
+    "Code/OS/Linux/server/ssh/ssh_config.md",
     "daily/31-08-2024.md",
+    "Code/OS/Linux/bash.md",
     "daily/30-08-2024.md",
     "Code/OS/windows/powershell.md",
     "Code/OS/windows",
@@ -166,26 +180,12 @@
     "Code/plans.md",
     "reverse engeneering.md",
     "Code/Java_Language/Java_Language.md",
-    "Code/reverse_engineering/hardware_interrupt.md",
-    "Code/reverse_engineering/syscalls.md",
-    "Code/reverse_engineering/security_rings.md",
-    "Code/reverse_engineering/opcodes.md",
-    "Code/reverse_engineering/scheduling.md",
-    "Code/reverse_engineering/execution.md",
-    "daily/29-08-2024.md",
-    "Code/Linux/Linux.md",
-    "Code/OS/VM/autounnatend.xml.md",
-    "Code/asm/asm.md",
     "Code/OS",
     "Code/OS/VM",
-    "Code/Approaches/Approaches.md",
-    "IP (instruciton pointer).md",
     "Code/img/IVT.png",
     "Code/asm",
     "Code/reverse_engineering",
-    "Code/Linux/server",
-    "Code/Linux",
-    "Code/Lua_Language",
-    "Code/Java_Language/HeadFirstJava.pdf"
+    "Code/OS/Linux/server",
+    "Code/OS/Linux"
   ]
 }
