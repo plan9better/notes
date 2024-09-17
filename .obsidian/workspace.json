@@ -11,8 +11,12 @@
             "id": "5354d67eb9be05fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Code/game_hacking/Unity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Code/game_hacking/Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Code/game_hacking/Unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Code/game_hacking/Unity.md"
+              }
             }
           }
         ]
@@ -142,6 +150,13 @@
   },
   "active": "5354d67eb9be05fe",
   "lastOpenFiles": [
+    "Code/networking/networking.md",
+    "daily/17-09-2024.md",
+    "Code/game_hacking/Unity.md",
+    "Code/hacking/hacking.md",
+    "Code/game_hacking",
+    "daily/16-09-2024.md",
+    "Code/asm/asm.md",
     "daily/daily.md",
     "daily/31-08-2024.md",
     "daily/31-07-2024.md",
@@ -154,7 +169,6 @@
     "daily/18-08-2024.md",
     "daily/17-08-2024.md",
     "daily/15-08-2024.md",
-    "daily/16-09-2024.md",
     "daily/12-08-2024.md",
     "daily/10-08-2024.md",
     "daily/07-08-2024.md",
@@ -164,12 +178,7 @@
     "Code/OS/Linux/server/ssh/ssh_config.md",
     "Code/OS/Linux/server/ssh/sshd_config.md",
     "Code/OS/Linux/server/ssh/ssh.md",
-    "Code/OS/Linux/server/ufw.md",
-    "Code/OS/Linux/server/Hardening_debian.md",
-    "Code/OS/Linux/server/tailscale.md",
-    "Code/OS/Linux/server/sudo.md",
     "Code/OS/Linux/server/ssh",
-    "Code/OS/Linux/server/shared_memory.md",
     "Code/OS/Linux/server",
     "Code/reverse_engineering/architecture",
     "Code/Python_Language/Tools",
@@ -177,7 +186,6 @@
     "Code/OS/VM",
     "Code/OS/Linux",
     "Code/Java_Language/Tools",
-    "Code/Java_Language/Standard_Library",
     "Code/img/PlanFlowChart.png",
     "Code/img/IVT.png",
     "Code/img/callstack.png"
