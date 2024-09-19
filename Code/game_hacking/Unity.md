@@ -4,7 +4,7 @@ Unity can be exported to 1 of 2 runtimes:
 
 # hacking
 ## mono
-- open dnSpyEx and patch (don't use 64bit for 32 bit games)
+- open dnSpyEx and patch (don't use 64bit for 32 bit games) can also use melonloader to make mods, use UnityExplorer plugin to check out the values.
 
 ## il2cpp
 - use melon loader
