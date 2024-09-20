@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/game_hacking/Unity.md",
+                "file": "Code/asm/asm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/game_hacking/Unity.md",
+                "file": "Code/asm/asm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/game_hacking/Unity.md",
+                "file": "Code/asm/asm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/game_hacking/Unity.md"
+                "file": "Code/asm/asm.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   },
   "active": "5354d67eb9be05fe",
   "lastOpenFiles": [
+    "Code/reverse_engineering/reverse_engineering.md",
+    "Code/game_hacking/Unity.md",
     "daily/01-08-2024.md",
     "daily/daily.md",
     "daily/18-09-2024.md",
-    "Code/game_hacking/Unity.md",
     "daily/17-09-2024.md",
     "Code/networking/networking.md",
     "Code/hacking/hacking.md",
@@ -177,7 +178,6 @@
     "daily/04-08-2024.md",
     "daily",
     "Code/OS/Linux/server/ssh/ssh_config.md",
-    "Code/OS/Linux/server/ssh/sshd_config.md",
     "Code/OS/Linux/server/ssh",
     "Code/OS/Linux/server",
     "Code/reverse_engineering/architecture",
