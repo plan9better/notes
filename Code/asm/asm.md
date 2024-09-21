@@ -180,7 +180,7 @@ ld -m elf_i386 -o filename filename.o
 ```
 
 # functions
-make a function anythwere in the file by adding a label: `hello: ` and some instructions under it. finish it with `ret`.
+make a function anythwere in the file by adding a label: `hello: ` and some instructions under it. finish it with `ret`. ret is automatically pushed onto the stack, remember when popping of the stack with [bp + offset] 
 ```asm
 section .text
 

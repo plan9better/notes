@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/asm/asm.md",
+                "file": "Code/Python_Language/Django.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/asm/asm.md",
+                "file": "Code/Python_Language/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/asm/asm.md",
+                "file": "Code/Python_Language/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/asm/asm.md"
+                "file": "Code/Python_Language/Django.md"
               }
             }
           }
@@ -150,7 +150,10 @@
   },
   "active": "5354d67eb9be05fe",
   "lastOpenFiles": [
+    "Code/Python_Language/Python_Language.md",
+    "Code/Python_Language/Django.md",
     "Code/reverse_engineering/reverse_engineering.md",
+    "Code/asm/asm.md",
     "Code/game_hacking/Unity.md",
     "daily/01-08-2024.md",
     "daily/daily.md",
@@ -160,7 +163,6 @@
     "Code/hacking/hacking.md",
     "Code/game_hacking",
     "daily/16-09-2024.md",
-    "Code/asm/asm.md",
     "daily/31-08-2024.md",
     "daily/31-07-2024.md",
     "daily/30-08-2024.md",
@@ -175,9 +177,7 @@
     "daily/12-08-2024.md",
     "daily/10-08-2024.md",
     "daily/07-08-2024.md",
-    "daily/04-08-2024.md",
     "daily",
-    "Code/OS/Linux/server/ssh/ssh_config.md",
     "Code/OS/Linux/server/ssh",
     "Code/OS/Linux/server",
     "Code/reverse_engineering/architecture",
