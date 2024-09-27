@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df1b91e6cf95f3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/cpp/lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Python_Language/Django.md",
+                "file": "Code/cpp/lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Python_Language/Django.md",
+                "file": "Code/cpp/lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Python_Language/Django.md"
+                "file": "Code/cpp/lambda.md"
               }
             }
           }
@@ -148,19 +161,28 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5354d67eb9be05fe",
+  "active": "df1b91e6cf95f3e9",
   "lastOpenFiles": [
+    "Code/cpp/Types.md",
+    "Code/cpp/lambda.md",
+    "Code/cpp/Unsigned.md",
+    "Code/Blockchain/Blockchain.md",
+    "Code/hacking/hacking.md",
+    "Code/Java_Language/Java_Language.md",
+    "Code/Lua_Language/Lua_Language.md",
+    "Code/networking/networking.md",
+    "Code/projects/projects.md",
     "Code/Python_Language/Python_Language.md",
-    "Code/Python_Language/Django.md",
     "Code/reverse_engineering/reverse_engineering.md",
+    "Code/cpp",
+    "Code/Python_Language/Django.md",
+    "Code/general",
     "Code/asm/asm.md",
     "Code/game_hacking/Unity.md",
     "daily/01-08-2024.md",
     "daily/daily.md",
     "daily/18-09-2024.md",
     "daily/17-09-2024.md",
-    "Code/networking/networking.md",
-    "Code/hacking/hacking.md",
     "Code/game_hacking",
     "daily/16-09-2024.md",
     "daily/31-08-2024.md",
@@ -170,13 +192,6 @@
     "daily/28-08-2024.md",
     "daily/27-08-2024.md",
     "daily/25-08-2024.md",
-    "daily/19-08-2024.md",
-    "daily/18-08-2024.md",
-    "daily/17-08-2024.md",
-    "daily/15-08-2024.md",
-    "daily/12-08-2024.md",
-    "daily/10-08-2024.md",
-    "daily/07-08-2024.md",
     "daily",
     "Code/OS/Linux/server/ssh",
     "Code/OS/Linux/server",
@@ -184,8 +199,6 @@
     "Code/Python_Language/Tools",
     "Code/OS/windows",
     "Code/OS/VM",
-    "Code/OS/Linux",
-    "Code/Java_Language/Tools",
     "Code/img/PlanFlowChart.png",
     "Code/img/IVT.png",
     "Code/img/callstack.png"
