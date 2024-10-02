@@ -10,6 +10,9 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "(100) Attachments",
   "userIgnoreFilters": [
-    "(000) System/"
-  ]
+    "(000) System/",
+    "(400) Personal/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "(200) Notes"
 }
