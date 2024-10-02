@@ -1,3 +1,6 @@
 {
-  "accentColor": "#00940a"
+  "accentColor": "#00940a",
+  "cssTheme": "Shimmering Focus",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true
 }
