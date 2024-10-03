@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(300) Permanent/sample.md",
+                "file": "(400) Personal/Quick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(300) Permanent/sample.md",
+                "file": "(400) Personal/Quick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(300) Permanent/sample.md"
+                "file": "(400) Personal/Quick.md"
               }
             }
           },
@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee46ee59ae97dc2c",
+  "active": "655818bbad391b19",
   "lastOpenFiles": [
+    "(300) Permanent/sample.md",
     "(400) Personal/Quick.md",
     "(200) Notes/Theta notation.md",
     "(200) Notes/O notation.md",
@@ -209,7 +210,6 @@
     "(500) Root/Launch.md",
     "(400) Personal/sample.md",
     "(400) Personal",
-    "(300) Permanent/sample.md",
     "(300) Permanent",
     "(200) Notes",
     "(100) Attachments",
