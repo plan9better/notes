@@ -42,8 +42,12 @@
             "id": "ee46ee59ae97dc2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "(300) Permanent/sample.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -112,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(400) Personal/Quick.md",
+                "file": "(300) Permanent/sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(400) Personal/Quick.md",
+                "file": "(300) Permanent/sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(400) Personal/Quick.md"
+                "file": "(300) Permanent/sample.md"
               }
             }
           },
@@ -186,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "655818bbad391b19",
+  "active": "ee46ee59ae97dc2c",
   "lastOpenFiles": [
-    "(200) Notes/Theta notation.md",
     "(400) Personal/Quick.md",
+    "(200) Notes/Theta notation.md",
     "(200) Notes/O notation.md",
     "(100) Attachments/function theta.png",
     "(100) Attachments/linear-theta.png",
