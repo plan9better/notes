@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/DSA.md",
+                "file": "(400) Personal/Quick.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(400) Personal/Quick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(400) Personal/Quick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(400) Personal/Quick.md"
+              }
             }
           },
           {
@@ -182,11 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee46ee59ae97dc2c",
+  "active": "655818bbad391b19",
   "lastOpenFiles": [
+    "(200) Notes/Theta notation.md",
+    "(400) Personal/Quick.md",
+    "(200) Notes/O notation.md",
+    "(100) Attachments/function theta.png",
+    "(100) Attachments/linear-theta.png",
+    "(200) Notes/Asymptotic notation.md",
+    "(200) Notes/().md",
+    "(100) Attachments/asymptotic-notation-graph.png",
+    "(100) Attachments/sample.md",
+    "(100) Attachments/common_runtimes_dark.webp",
     "(200) Notes/DSA.md",
     "(200) Notes/Computational Complexity Theory.md",
-    "(200) Notes/Asymptotic notation.md",
     "(200) Notes/NP-completeness.md",
     "(200) Notes/sample.md",
     "(500) Root/Launch.md",
@@ -195,34 +208,29 @@
     "(300) Permanent/sample.md",
     "(300) Permanent",
     "(200) Notes",
-    "(100) Attachments/sample.md",
     "(100) Attachments",
     "(000) System/sample.md",
     "(000) System",
-    "(200) Notes/Code/OS/Linux/server/ssh/ssh_config.md",
-    "(200) Notes/Code/OS/Linux/server/ssh/sshd_config.md",
-    "(200) Notes/Code/OS/Linux/server/ssh/ssh.md",
-    "(200) Notes/Code/OS/Linux/server/ufw.md",
-    "(200) Notes/Code/OS/Linux/server/tailscale.md",
-    "(200) Notes/Code/OS/Linux/server/ssh",
-    "(200) Notes/Code/OS/Linux/server/sudo.md",
-    "(200) Notes/Code/OS/Linux/server/shared_memory.md",
-    "(200) Notes/Code/OS/Linux/server/Hardening_debian.md",
-    "(200) Notes/Code/OS/Linux/server/server.md",
-    "(200) Notes/Code/OS/Linux/server/fail2ban.md",
-    "(200) Notes/Code/cloud/AWS/EC2.md",
-    "(200) Notes/Code/Python_Language/Tools/Venv.md",
-    "(200) Notes/Code/cloud/AWS/Control groups.md",
-    "(200) Notes/Code/cloud/AWS/AWS.md",
-    "(200) Notes/Code/reverse_engineering/architecture/x64.md",
-    "(200) Notes/Code/reverse_engineering/architecture/x86.md",
-    "(200) Notes/Code/OS/Linux/server",
-    "(200) Notes/Code/cloud/AWS",
-    "(200) Notes/Code/reverse_engineering/architecture",
-    "(200) Notes/Code/Python_Language/Tools",
-    "(200) Notes/Code/img/PlanFlowChart.png",
-    "(200) Notes/Code/img/IVT.png",
-    "(200) Notes/Code/img/callstack.png",
+    "(400) Personal/Code/OS/Linux/server/ssh/ssh_config.md",
+    "(400) Personal/Code/OS/Linux/server/ssh/sshd_config.md",
+    "(400) Personal/Code/OS/Linux/server/ssh/ssh.md",
+    "(400) Personal/Code/OS/Linux/server/ufw.md",
+    "(400) Personal/Code/OS/Linux/server/tailscale.md",
+    "(400) Personal/Code/OS/Linux/server/ssh",
+    "(400) Personal/Code/OS/Linux/server/sudo.md",
+    "(400) Personal/Code/OS/Linux/server/shared_memory.md",
+    "(400) Personal/Code/OS/Linux/server/Hardening_debian.md",
+    "(400) Personal/Code/OS/Linux/server/server.md",
+    "(400) Personal/Code/OS/Linux/server/fail2ban.md",
+    "(400) Personal/Code/cloud/AWS/EC2.md",
+    "(400) Personal/Code/Python_Language/Tools/Venv.md",
+    "(400) Personal/Code/OS/Linux/server",
+    "(400) Personal/Code/cloud/AWS",
+    "(400) Personal/Code/reverse_engineering/architecture",
+    "(400) Personal/Code/Python_Language/Tools",
+    "(400) Personal/Code/img/PlanFlowChart.png",
+    "(400) Personal/Code/img/IVT.png",
+    "(400) Personal/Code/img/callstack.png",
     "notes/Code/img/callstack.png",
     "notes/Code/img/PlanFlowChart.png",
     "notes/Code/img/IVT.png"

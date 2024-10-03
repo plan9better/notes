@@ -4,4 +4,5 @@
 2. **[[Omega notation|Ω notation]]**: Describes the best-case scenario—how quickly an algorithm *could* finish.
 3. **[[Theta notation|Θ notation]]**: Describes the average-case scenario—how long an algorithm *usually* takes.
 
+![[asymptotic-notation-graph.png]]
 These notations are key in [[Algorithm Analysis|analyzing algorithms]] to predict their scalability with larger inputs.
