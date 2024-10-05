@@ -6,3 +6,6 @@
 
 ![[asymptotic-notation-graph.png]]
 These notations are key in [[Algorithm Analysis|analyzing algorithms]] to predict their scalability with larger inputs.
+
+You can also express relation between functions using asymptotic notation.
+**[[Asymptotic relations | Asymptotic notatnion in relation to eachother]]**
