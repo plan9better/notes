@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "655818bbad391b19",
+  "active": "bf7a4c2229058940",
   "lastOpenFiles": [
     "(300) Permanent/sample.md",
     "(400) Personal/Quick.md",
