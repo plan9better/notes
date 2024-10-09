@@ -7,3 +7,6 @@ ah - AA
 al - FF
 # ram
 every element in the ram table is 1 byte
+
+# instrucitons
+`mov dest, source`
