@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a243dfb5a9d471a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "392eb5f6765c3aab",
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(400) Personal/Quick.md",
+                "file": "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(400) Personal/Quick.md",
+                "file": "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(400) Personal/Quick.md"
+                "file": "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md"
               }
             }
           },
@@ -191,8 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf7a4c2229058940",
+  "active": "9a243dfb5a9d471a",
   "lastOpenFiles": [
+    "(500) Root/Launch.md",
+    "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md",
+    "Excalidraw",
     "(300) Permanent/sample.md",
     "(400) Personal/Quick.md",
     "(200) Notes/Theta notation.md",
@@ -208,7 +221,6 @@
     "(200) Notes/Computational Complexity Theory.md",
     "(200) Notes/NP-completeness.md",
     "(200) Notes/sample.md",
-    "(500) Root/Launch.md",
     "(400) Personal/sample.md",
     "(400) Personal",
     "(300) Permanent",
@@ -228,11 +240,9 @@
     "(400) Personal/Code/OS/Linux/server/server.md",
     "(400) Personal/Code/OS/Linux/server/fail2ban.md",
     "(400) Personal/Code/cloud/AWS/EC2.md",
-    "(400) Personal/Code/Python_Language/Tools/Venv.md",
     "(400) Personal/Code/OS/Linux/server",
     "(400) Personal/Code/cloud/AWS",
     "(400) Personal/Code/reverse_engineering/architecture",
-    "(400) Personal/Code/Python_Language/Tools",
     "(400) Personal/Code/img/PlanFlowChart.png",
     "(400) Personal/Code/img/IVT.png",
     "(400) Personal/Code/img/callstack.png",
