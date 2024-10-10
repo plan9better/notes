@@ -3,6 +3,6 @@ Course is run on dosbox emulator of ms dos operating system. It runs on a 16 bit
 ## example workflow
 - in wsl open nvim in `C:\Users\lain\Desktop\dosbox` + right directory.
 - write [[example_ASM|asm code]]
-- `cd .. & cd dir` (if new file still not present 
+- `cd .. & cd dir` (if new file still not present `CTRL + F4` or restart dosbox)
 - compile with `nasm -o test.com test.asm` (com for compiled)
 - Debug with `insight test.com`
