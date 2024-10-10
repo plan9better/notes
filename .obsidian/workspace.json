@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(400) Personal/Code/asm/wia2.md",
+                "file": "(200) Notes/Comp Arch.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(400) Personal/Code/asm/wia2.md",
+                "file": "(200) Notes/Comp Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(400) Personal/Code/asm/wia2.md",
+                "file": "(200) Notes/Comp Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(400) Personal/Code/asm/wia2.md"
+                "file": "(200) Notes/Comp Arch.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "9a243dfb5a9d471a",
   "lastOpenFiles": [
-    "(400) Personal/Code/asm/asm.md",
     "(400) Personal/Code/asm/wia2.md",
+    "(200) Notes/Comp Arch.md",
+    "(400) Personal/Code/asm/asm.md",
     "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md",
     "(500) Root/Launch.md",
     "Excalidraw",
@@ -240,7 +241,6 @@
     "(400) Personal/Code/OS/Linux/server/sudo.md",
     "(400) Personal/Code/OS/Linux/server/shared_memory.md",
     "(400) Personal/Code/OS/Linux/server/Hardening_debian.md",
-    "(400) Personal/Code/OS/Linux/server/server.md",
     "(400) Personal/Code/OS/Linux/server",
     "(400) Personal/Code/cloud/AWS",
     "(400) Personal/Code/reverse_engineering/architecture",
