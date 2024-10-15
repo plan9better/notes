@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/NP-completeness.md",
+                "file": "(200) Notes/Insight Debugger.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(200) Notes/NP-completeness.md",
+                "file": "(200) Notes/Insight Debugger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(200) Notes/NP-completeness.md",
+                "file": "(200) Notes/Insight Debugger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(200) Notes/NP-completeness.md"
+                "file": "(200) Notes/Insight Debugger.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "9a243dfb5a9d471a",
   "lastOpenFiles": [
-    "(200) Notes/Insight Debugger.md",
     "(200) Notes/example ASM.md",
+    "(200) Notes/NP-completeness.md",
+    "(200) Notes/Insight Debugger.md",
     "(200) Notes/Computational Complexity Theory.md",
     "(200) Notes/Comp Arch.md",
     "(200) Notes/Asymptotic notation.md",
@@ -225,7 +226,6 @@
     "(100) Attachments/sample.md",
     "(100) Attachments/common_runtimes_dark.webp",
     "(200) Notes/DSA.md",
-    "(200) Notes/NP-completeness.md",
     "(200) Notes/sample.md",
     "(400) Personal/sample.md",
     "(400) Personal",
