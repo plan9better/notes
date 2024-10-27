@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Stream agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "Stream agenda"
             }
           },
           {
@@ -48,21 +48,8 @@
               "icon": "lucide-file",
               "title": "Quick"
             }
-          },
-          {
-            "id": "87242e7c965f6d5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "392eb5f6765c3aab",
@@ -154,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Stream agenda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Launch"
+              "title": "Backlinks for Stream agenda"
             }
           },
           {
@@ -173,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Stream agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Launch"
+              "title": "Outgoing links from Stream agenda"
             }
           },
           {
@@ -200,10 +187,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(500) Root/Launch.md"
+                "file": "(200) Notes/Stream agenda.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Launch"
+              "title": "Outline of Stream agenda"
             }
           },
           {
@@ -238,21 +225,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87242e7c965f6d5e",
+  "active": "443298ed4a150c5d",
   "lastOpenFiles": [
+    "(500) Root/Launch.md",
+    "(200) Notes/Stream agenda.md",
+    "(400) Personal/Quick.md",
+    "(400) Personal/sample.md",
+    "(200) Notes/DSA.md",
     "(200) Notes/Insight Debugger.md",
     "(200) Notes/example ASM.md",
     "(200) Notes/NP-completeness.md",
     "(200) Notes/Computational Complexity Theory.md",
     "(200) Notes/Comp Arch.md",
     "(200) Notes/Asymptotic notation.md",
-    "(500) Root/Launch.md",
     "(400) Personal/Code/asm/wia2.md",
     "(400) Personal/Code/asm/asm.md",
     "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md",
     "Excalidraw",
     "(300) Permanent/sample.md",
-    "(400) Personal/Quick.md",
     "(200) Notes/Theta notation.md",
     "(200) Notes/O notation.md",
     "(100) Attachments/function theta.png",
@@ -261,9 +251,7 @@
     "(100) Attachments/asymptotic-notation-graph.png",
     "(100) Attachments/sample.md",
     "(100) Attachments/common_runtimes_dark.webp",
-    "(200) Notes/DSA.md",
     "(200) Notes/sample.md",
-    "(400) Personal/sample.md",
     "(400) Personal",
     "(300) Permanent",
     "(200) Notes",
@@ -276,7 +264,6 @@
     "(400) Personal/Code/OS/Linux/server/ufw.md",
     "(400) Personal/Code/OS/Linux/server/tailscale.md",
     "(400) Personal/Code/OS/Linux/server/ssh",
-    "(400) Personal/Code/OS/Linux/server/sudo.md",
     "(400) Personal/Code/OS/Linux/server",
     "(400) Personal/Code/cloud/AWS",
     "(400) Personal/Code/reverse_engineering/architecture",
