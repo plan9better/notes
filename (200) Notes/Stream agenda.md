@@ -1,5 +1,5 @@
 - [x] leetcode
-- [ ] ML leetcode [neetcode](neetcode.io)
-- [ ] gpg signing python
+- [x] ML leetcode [neetcode](https://neetcode.io)
 - [ ] dsa for school
+- [ ] gpg signing python
 - [ ] steam reviews
