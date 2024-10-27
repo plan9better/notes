@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Stream agenda.md",
+                "file": "(200) Notes/Leetcode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stream agenda"
+              "title": "Leetcode"
             }
           },
           {
@@ -213,8 +213,8 @@
   },
   "active": "443298ed4a150c5d",
   "lastOpenFiles": [
-    "(200) Notes/neetcode.io.md",
     "(200) Notes/Stream agenda.md",
+    "(200) Notes/neetcode.io.md",
     "(500) Root/Launch.md",
     "(300) Permanent/sample.md",
     "(200) Notes/Leetcode.md",
