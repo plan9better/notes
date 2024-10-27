@@ -2,4 +2,4 @@
 - [ ] ML leetcode [neetcode](neetcode.io)
 - [ ] gpg signing python
 - [ ] dsa for school
-- [ ] kaggle??
+- [ ] steam reviews
