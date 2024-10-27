@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/ML.md",
+                "file": "(200) Notes/Gradient descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML"
+              "title": "Gradient descent"
             }
           }
         ]
@@ -177,10 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a204c5b30ca7b8",
+  "active": "c80438181df13b99",
   "lastOpenFiles": [
-    "(500) Root/Launch.md",
+    "(100) Attachments/gradient-descen.png",
+    "(200) Notes/error function.md",
+    "(200) Notes/Gradient descent.md",
     "(200) Notes/ML.md",
+    "(500) Root/Launch.md",
     "(200) Notes/Stream agenda.md",
     "(200) Notes/neetcode.io.md",
     "(200) Notes/4. Longest common prefix.md",
@@ -206,14 +209,11 @@
     "(100) Attachments/linear-theta.png",
     "(200) Notes/().md",
     "(100) Attachments/asymptotic-notation-graph.png",
-    "(100) Attachments/sample.md",
     "(100) Attachments/common_runtimes_dark.webp",
-    "(200) Notes/sample.md",
     "(400) Personal",
     "(300) Permanent",
     "(200) Notes",
     "(100) Attachments",
-    "(000) System/sample.md",
     "(000) System",
     "(400) Personal/Code/OS/Linux/server/ssh",
     "(400) Personal/Code/OS/Linux/server",
