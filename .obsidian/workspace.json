@@ -13,60 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Leetcode.md",
+                "file": "(200) Notes/Stream agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode"
-            }
-          },
-          {
-            "id": "655818bbad391b19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(400) Personal/Quick.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quick"
-            }
-          },
-          {
-            "id": "9a243dfb5a9d471a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(400) Personal/Quick.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quick"
+              "title": "Stream agenda"
             }
           }
         ]
       },
       {
-        "id": "392eb5f6765c3aab",
+        "id": "08a37cf120625e21",
         "type": "tabs",
         "children": [
           {
-            "id": "ee46ee59ae97dc2c",
+            "id": "f0499702406bc663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(300) Permanent/sample.md",
+                "file": "(500) Root/Launch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sample"
+              "title": "Launch"
             }
           }
         ]
@@ -228,6 +200,7 @@
   "active": "443298ed4a150c5d",
   "lastOpenFiles": [
     "(500) Root/Launch.md",
+    "(300) Permanent/sample.md",
     "(200) Notes/Leetcode.md",
     "(200) Notes/NP-completeness.md",
     "(200) Notes/example ASM.md",
@@ -243,7 +216,6 @@
     "(400) Personal/Code/asm/asm.md",
     "Excalidraw/Drawing 2024-10-09 16.23.00.excalidraw.md",
     "Excalidraw",
-    "(300) Permanent/sample.md",
     "(200) Notes/Theta notation.md",
     "(200) Notes/O notation.md",
     "(100) Attachments/function theta.png",
