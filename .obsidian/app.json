@@ -14,5 +14,6 @@
     "(400) Personal/"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "(200) Notes"
+  "newFileFolderPath": "(200) Notes",
+  "readableLineLength": false
 }
