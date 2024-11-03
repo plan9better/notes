@@ -7,3 +7,5 @@ Volatility represents how high/low the price will swing around the mean price.
 - Implied volatility measures how volatile the market will be
 - Historical volatility measures how price changes over past time periods
 
+## how to measure
+- quantify the daily returns (percent move on a daily basis) of the asset.
