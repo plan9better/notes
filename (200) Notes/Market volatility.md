@@ -12,5 +12,5 @@ Volatility represents how high/low the price will swing around the mean price.
 - calculate the difference between each data value and the mean (deviations)
 - square the deviations
 - add the squared deviations
-- divide the sum of the squared deviations by the number of values
-- 
+- [[variance]] -> divide the sum of the squared deviations by the number of values
+- [[Standard deviation]] -> take the square root of the variance
