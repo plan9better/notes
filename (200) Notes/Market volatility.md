@@ -14,3 +14,5 @@ Volatility represents how high/low the price will swing around the mean price.
 - add the squared deviations
 - [[variance]] -> divide the sum of the squared deviations by the number of values
 - [[Standard deviation]] -> take the square root of the variance
+## $\beta$ coefficient
+if a stock has 0.78 beta coefficient it makes it slightly less volatile than some benchmark (usually S&P500)
