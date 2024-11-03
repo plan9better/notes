@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Market volatility"
             }
+          },
+          {
+            "id": "1379af33293487bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(200) Notes/Stock split.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stock split"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a204c5b30ca7b8",
+  "active": "1379af33293487bd",
   "lastOpenFiles": [
-    "(200) Notes/Variance.md",
     "(200) Notes/Market volatility.md",
+    "(200) Notes/Stock split.md",
+    "(200) Notes/Variance.md",
     "(200) Notes/Standard deviation.md",
     "(200) Notes/Gaussian distribution.md",
     "(100) Attachments/gauss.png",
@@ -208,7 +224,6 @@
     "(200) Notes/neetcode.io.md",
     "(100) Attachments/gradient-descen.png",
     "(300) Permanent/sample.md",
-    "(400) Personal/sample.md",
     "Excalidraw",
     "(100) Attachments/function theta.png",
     "(100) Attachments/linear-theta.png",
