@@ -14,4 +14,8 @@ $2.25\%$
 $4.00\%$
 3. final:
 Variance = $0.25\% + 2.25\% + 4.00\% = 6.5\%$
-$\frac{6.5\%}{3 - 1} = 3.25\% = 0.0324
+divide by N - 1
+$\frac{6.5\%}{3 - 1} = 3.25\% = 0.0324$
+
+to take the [[Standard deviation]] just take the square root of the variance.
+
