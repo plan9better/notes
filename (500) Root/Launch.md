@@ -2,4 +2,5 @@
 - [[Stream agenda]]
 - [[Leetcode]]
 - [[ML]]
-- 
+- [[Math]]
+- [[Cryptohack]]
