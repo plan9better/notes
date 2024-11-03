@@ -8,4 +8,9 @@ Volatility represents how high/low the price will swing around the mean price.
 - Historical volatility measures how price changes over past time periods
 
 ## how to measure
-- quantify the daily returns (percent move on a daily basis) of the asset.
+- Find the mean price over a period of time.
+- calculate the difference between each data value and the mean (deviations)
+- square the deviations
+- add the squared deviations
+- divide the sum of the squared deviations by the number of values
+- 
