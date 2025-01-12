@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "6df840617dceca8d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-12 16.53.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-12 16.53.05.excalidraw"
+            }
+          },
+          {
             "id": "ebc751b72b2cf6a6",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Graph6.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +193,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6797966bec049dc3",
+  "active": "6df840617dceca8d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-12 16.54.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-12 16.53.05.excalidraw.md",
+    "(200) Notes/Minimum spanning trees.md",
     "/(200) Notes/Minimum spanning trees.md",
     "Excalidraw/Graph6.excalidraw.md",
-    "(200) Notes/Minimum spanning trees.md",
     "Excalidraw",
     "(200) Notes/Standard deviation.md",
     "(200) Notes",
@@ -209,8 +224,6 @@
     "(400) Personal/Code/C_Language/Tools/Tools.md",
     "(400) Personal/Code/C_Language/Tools/gdb.md",
     "(400) Personal/Code/Java_Language/Tools",
-    "(400) Personal/Code/game_hacking/Unity.md",
-    "(400) Personal/Code/Python_Language/Python_Language.md",
     "(400) Personal/Code/Python_Language/Tools",
     "(400) Personal/Code/img/callstack.png",
     "(400) Personal/Code/img/IVT.png",
