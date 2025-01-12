@@ -27,14 +27,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-12 16.39.43.excalidraw.md"
+                "file": "Excalidraw/Graph6.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-12 16.39.43.excalidraw"
+              "title": "Graph6.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebc751b72b2cf6a6",
+  "active": "4ef075a82e71f492",
   "lastOpenFiles": [
+    "Excalidraw/Graph6.excalidraw.md",
     "(200) Notes/Minimum spanning trees.md",
-    "Excalidraw/Drawing 2025-01-12 16.39.43.excalidraw.md",
     "Excalidraw",
     "(200) Notes/Standard deviation.md",
     "(200) Notes",
