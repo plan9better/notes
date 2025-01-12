@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "fd93d507c9a1b8a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-12 17.52.49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-12 17.52.49.excalidraw"
-            }
-          },
-          {
             "id": "ebc751b72b2cf6a6",
             "type": "leaf",
             "state": {
@@ -45,8 +33,7 @@
               "title": "Graph6.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd93d507c9a1b8a7",
+  "active": "6797966bec049dc3",
   "lastOpenFiles": [
+    "Excalidraw/djikstragraph.excalidraw.md",
+    "/Excalidraw/djikstragraph.excalidraw.md",
     "(200) Notes/Djikstras algorithm.md",
     "Excalidraw/Drawing 2025-01-12 17.52.49.excalidraw.md",
     "(200) Notes/Kruskals algorithm.md",
@@ -221,8 +210,6 @@
     "(200) Notes/Stream agenda.md",
     "(200) Notes/Self Balancing BST.md",
     "(200) Notes/Skill rating systems.md",
-    "(200) Notes/Graphs (DSA).md",
-    "(200) Notes/Gradient descent.md",
     "(400) Personal/Code/Java_Language/Tools",
     "(400) Personal/Code/Python_Language/Tools",
     "(400) Personal/Code/img/callstack.png",
