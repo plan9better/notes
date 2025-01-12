@@ -18,3 +18,6 @@ Graphs can also be:
 - **Acyclic:** Do not contain cycles.
 - **Connected:** There is a path between every pair of vertices.
 - **Disconnected:** At least one pair of vertices has no path connecting them.
+### Algorithms
+- [[Prims algorithm]] ( [[Minimum spanning trees]] )
+- 
