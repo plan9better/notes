@@ -10,9 +10,10 @@ Finds the shortest path from source node to every other node in the graph with n
 s -> already selected
 starting vortex -> 1
 
-| Selected vortex | 2                 | 3   | 4   | 5                        | 6        |
-| --------------- | ----------------- | --- | --- | ------------------------ | -------- |
-| 4               | 50                | 45  | s10 | $\infty$                 | $\infty$ |
-| 5               | 50                | 45  | s10 | s10 + 15 = 25 < $\infty$ | $\infty$ |
-| 2               | 25 + 20 = 45 < 50 | 45  | s10 | s25                      | $\infty$ |
-|                 |                   |     |     |                          |          |
+| Selected vortex | 2                  | 3   | 4   | 5                        | 6         |
+| --------------- | ------------------ | --- | --- | ------------------------ | --------- |
+| 4               | 50                 | 45  | s10 | $\infty$                 | $\infty$  |
+| 5               | 50                 | 45  | s10 | s10 + 15 = 25 < $\infty$ | $\infty$  |
+| 2               | s25 + 20 = 45 < 50 | 45  | s10 | s25                      | $\infty$  |
+| 3               | s45                | 45  | s10 | s25                      | $\infty$  |
+| 6               | s45                | s45 | s10 | s25                      | s$\infty$ |
