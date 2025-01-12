@@ -15,3 +15,6 @@ So if the distance to vortex $u$ + weight of edge between $u$ and $v$ is less th
 - Do that $n - 1$ times where $n = |V|$ or stop when no updates were made in an iteration.
 
 It can take even $O(n^3)$ with a complete [[Graphs (DSA)|Graph]]. (Connection between every node)
+
+It will not work with graphs which have a negetive weight cycle. This means that there are some nodes that form a cycle and the sum of weights of edges between them is negative. In that case every iteration of bellman-ford will produce a new result.
+But it can detect a negative weight cycle, by performing another iteration after already iterating $n-1$ times and checking if something changed. If that is the case then there is a negative weight cycle.
