@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "6df840617dceca8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-12 16.53.05.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-12 16.53.05.excalidraw"
-            }
-          },
-          {
             "id": "ebc751b72b2cf6a6",
             "type": "leaf",
             "state": {
@@ -45,8 +33,7 @@
               "title": "Graph6.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6df840617dceca8d",
+  "active": "6797966bec049dc3",
   "lastOpenFiles": [
+    "Excalidraw/Graph62.excalidraw.md",
+    "/Excalidraw/Graph62.excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 16.54.54.excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 16.53.05.excalidraw.md",
     "(200) Notes/Minimum spanning trees.md",
@@ -221,8 +210,6 @@
     "(200) Notes/Variance.md",
     "(400) Personal/Code/Python_Language/Tools/Venv.md",
     "(400) Personal/Code/Python_Language/Tools/Tools.md",
-    "(400) Personal/Code/C_Language/Tools/Tools.md",
-    "(400) Personal/Code/C_Language/Tools/gdb.md",
     "(400) Personal/Code/Java_Language/Tools",
     "(400) Personal/Code/Python_Language/Tools",
     "(400) Personal/Code/img/callstack.png",
