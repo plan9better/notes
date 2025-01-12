@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Minimum spanning trees.md",
+                "file": "(200) Notes/Prims algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minimum spanning trees"
+              "title": "Prims algorithm"
             }
           }
         ],
@@ -194,8 +194,9 @@
   },
   "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
-    "(200) Notes/Graphs (DSA).md",
     "(200) Notes/Minimum spanning trees.md",
+    "(200) Notes/Prims algorithm.md",
+    "(200) Notes/Graphs (DSA).md",
     "(200) Notes/DSA.md",
     "(200) Notes/Gaussian distribution.md",
     "(200) Notes/example ASM.md",
@@ -219,7 +220,6 @@
     "(200) Notes/Market volatility.md",
     "(200) Notes/Multivariate Gaussian distribution.md",
     "(200) Notes/Gaussian processes.md",
-    "(200) Notes/Math.md",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
     "(100) Attachments/linear-regression.png",
