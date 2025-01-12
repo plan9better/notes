@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Binary Search Trees.md",
+                "file": "(200) Notes/Red Black Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search Trees"
+              "title": "Red Black Trees"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "b87d1be649d763be",
   "lastOpenFiles": [
-    "(200) Notes/Binary Tree.md",
+    "(200) Notes/Self Balancing BST.md",
+    "(200) Notes/Red Black Trees.md",
     "(200) Notes/Binary Search Trees.md",
+    "(200) Notes/Binary Tree.md",
     "(200) Notes/Asymptotic notation.md",
     "(200) Notes/Asymptotic relations.md",
     "(200) Notes/DSA.md",
@@ -206,8 +208,6 @@
     "(200) Notes/Theta notation.md",
     "(200) Notes/O notation.md",
     "(200) Notes/Leetcode.md",
-    "(200) Notes/Error function.md",
-    "(300) Permanent/3. Longest Substring Without Repeating Characters.md",
     "(100) Attachments/gradient-descen.png",
     "Excalidraw",
     "(100) Attachments/function theta.png",

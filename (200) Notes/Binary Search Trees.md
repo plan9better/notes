@@ -1,1 +1,2 @@
-BST are [[Binary Tree]]'s where left child of each node is smaller then the node and right child is bigger. 
+BST are [[Binary Tree]]'s where left child of each node is smaller then the node and right child is bigger. That optimizes searching. 
+They are a broad category with many more specific implementations such as [[Self Balancing BST]]'s
