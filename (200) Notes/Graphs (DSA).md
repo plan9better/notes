@@ -20,4 +20,5 @@ Graphs can also be:
 - **Disconnected:** At least one pair of vertices has no path connecting them.
 ### Algorithms
 - [[Prims algorithm]] ( [[Minimum spanning trees]] )
-- 
+- [[Kruskals algorithm]] ( [[Minimum spanning trees]] )
+- [[Djikstras algorithm]] ( Shortest path )
