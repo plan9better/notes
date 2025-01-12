@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Graphs (DSA).md",
+                "file": "(200) Notes/Bellman-Ford algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs (DSA)"
+              "title": "Bellman-Ford algorithm"
             }
           },
           {
@@ -202,6 +202,8 @@
   },
   "active": "b87d1be649d763be",
   "lastOpenFiles": [
+    "(200) Notes/Graphs (DSA).md",
+    "Excalidraw/Graph62.excalidraw.md",
     "(200) Notes/Bellman-Ford algorithm.md",
     "(200) Notes/Djikstras algorithm.md",
     "(200) Notes/Greedy algorithms.md",
@@ -213,11 +215,9 @@
     "Excalidraw/Drawing 2025-01-12 17.58.49.excalidraw.md",
     "Excalidraw/djikstragraph.excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 17.36.56.excalidraw.md",
-    "(200) Notes/Graphs (DSA).md",
     "(200) Notes/Minimum spanning trees.md",
     "(200) Notes/Prims algorithm.md",
     "(200) Notes/Kruskals algorithm.md",
-    "Excalidraw/Graph62.excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 16.54.54.excalidraw.md",
     "Excalidraw/Graph6.excalidraw.md",
     "Excalidraw",

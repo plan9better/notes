@@ -21,5 +21,5 @@ Graphs can also be:
 ### Algorithms
 - [[Prims algorithm]] ( [[Minimum spanning trees]] )
 - [[Kruskals algorithm]] ( [[Minimum spanning trees]] )
-- [[Djikstras algorithm]] ( Shortest path non-negait)
+- [[Djikstras algorithm]] ( Shortest path non-negative edge weights)
 - [[Bellman-Ford algorithm]] (Shortest path with negative edge weights)
