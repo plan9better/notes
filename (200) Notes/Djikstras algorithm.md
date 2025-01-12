@@ -7,9 +7,12 @@ Finds the shortest path from source node to every other node in the graph with n
 
 ### Example:
 ![[djikstragraph.excalidraw]]
+s -> already selected
+starting vortex -> 1
 
-| Selected vortex | 2   | 3      | 4         | 5            | 6        |
-| --------------- | --- | ------ | --------- | ------------ | -------- |
-| 4               | 50  | 45     | 10        | $\infty$     | $\infty$ |
-| 5               | 50  | 45     | 10 (done) | 10 + 15 = 25 | $\infty$ |
-| Row 3A          |     | Row 3C |           | 25           |          |
+| Selected vortex | 2                 | 3   | 4   | 5                        | 6        |
+| --------------- | ----------------- | --- | --- | ------------------------ | -------- |
+| 4               | 50                | 45  | s10 | $\infty$                 | $\infty$ |
+| 5               | 50                | 45  | s10 | s10 + 15 = 25 < $\infty$ | $\infty$ |
+| 2               | 25 + 20 = 45 < 50 | 45  | s10 | s25                      | $\infty$ |
+|                 |                   |     |     |                          |          |
