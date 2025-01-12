@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Shortest paths.md",
+                "file": "(200) Notes/Bellman-Ford algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest paths"
+              "title": "Bellman-Ford algorithm"
             }
           },
           {
@@ -203,9 +203,11 @@
   "active": "b87d1be649d763be",
   "lastOpenFiles": [
     "(200) Notes/Greedy algorithms.md",
-    "(200) Notes/Shortest paths.md",
+    "(200) Notes/Bellman-Ford algorithm.md",
     "(200) Notes/DSA.md",
+    "(200) Notes/Graph algorithms.md",
     "(200) Notes/Djikstras algorithm.md",
+    "(200) Notes/Shortest paths.md",
     "Excalidraw/Drawing 2025-01-12 17.58.49.excalidraw.md",
     "Excalidraw/djikstragraph.excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 17.36.56.excalidraw.md",
@@ -227,8 +229,6 @@
     "(200) Notes/Stock split.md",
     "(200) Notes/Standard deviation.md",
     "(200) Notes/Variance.md",
-    "(300) Permanent/4. Longest common prefix.md",
-    "(300) Permanent/sample.md",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
     "(100) Attachments/linear-regression.png",
