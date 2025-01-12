@@ -12,4 +12,6 @@ So if the distance to vortex $u$ + weight of edge between $u$ and $v$ is less th
 - Select an edge (that wasn't selected before) and relax it.
 - Select another edge and relax again, continue for all edges.
 - Start again from the start, relaxing all edges one by one.
-- Do that $n - 1$ times where 
+- Do that $n - 1$ times where $n = |V|$ or stop when no updates were made in an iteration.
+
+It can take even $O(n^3)$ with a complete [[Graphs (DSA)|Graph]]
