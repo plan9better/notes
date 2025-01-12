@@ -5,4 +5,8 @@ Relaxation is the same as in [[Djikstras algorithm]]:
 if (d[u] + c(u, v) < d[v]:
     d[v] = d[u] + c(u, v)
 ```
+So if the distance to vortex $u$ + weight of edge between $u$ and $v$ is less than the current distance to $v$ then update it. With the exception that you can select any edge. Just make sure that at the end you checked all edges.
 
+### Steps:
+- Set the distance to each node to $\infty$
+- Select an edge (that wasn't selected before)
