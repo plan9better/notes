@@ -1,4 +1,4 @@
-Finds the shortest path from source node to every other node in the graph with non-negative weights.
+Finds the shortest path from source node to every other node in the graph with non-negative weights (Use [[Bellman-Ford algorithm]] for negative edge weights).
 ### Steps:
 - Set distance to source node to 0and all nodes not directly connected to source node to $\infty$
 - Find the node with the lowest distance (for first iteration, source node since all others are $\infty$)

@@ -1,1 +1,2 @@
-Algorithm for finding shortes path from single source node to all other nodes in a [[Graphs (DSA)|Graphl]]
+[[Dynamic programming]] Algorithm for finding shortes path from single source node to all other nodes in a [[Graphs (DSA)|Graph]]. Unlink [[Djikstras algorithm]] it works with negative edge weights but does not work with negative weight cycles. 
+It works by checking all poss

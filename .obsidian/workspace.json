@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6428b63d72df675c",
@@ -202,11 +202,11 @@
   },
   "active": "b87d1be649d763be",
   "lastOpenFiles": [
-    "(200) Notes/Greedy algorithms.md",
-    "(200) Notes/Bellman-Ford algorithm.md",
-    "(200) Notes/DSA.md",
-    "(200) Notes/Graph algorithms.md",
     "(200) Notes/Djikstras algorithm.md",
+    "(200) Notes/Greedy algorithms.md",
+    "(200) Notes/DSA.md",
+    "(200) Notes/Bellman-Ford algorithm.md",
+    "(200) Notes/Graph algorithms.md",
     "(200) Notes/Shortest paths.md",
     "Excalidraw/Drawing 2025-01-12 17.58.49.excalidraw.md",
     "Excalidraw/djikstragraph.excalidraw.md",
