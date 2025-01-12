@@ -1,0 +1,1 @@
+BST are [[Binary Tree]]'s where left child of each node is smaller then the node and right child is bigger. 

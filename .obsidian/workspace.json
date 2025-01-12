@@ -11,10 +11,14 @@
             "id": "b87d1be649d763be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "(200) Notes/Binary Search Trees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search Trees"
             }
           }
         ]
@@ -168,12 +172,19 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b87d1be649d763be",
   "lastOpenFiles": [
+    "(200) Notes/Binary Tree.md",
+    "(200) Notes/Binary Search Trees.md",
+    "(200) Notes/Asymptotic notation.md",
+    "(200) Notes/Asymptotic relations.md",
     "(200) Notes/DSA.md",
+    "(200) Notes/Computational Complexity Theory.md",
     "(200) Notes/Standard deviation.md",
     "(200) Notes/Market volatility.md",
     "(200) Notes/Variance.md",
@@ -191,17 +202,12 @@
     "(200) Notes/Linear regression.md",
     "(100) Attachments/linear-regression.png",
     "(200) Notes/Skill rating systems.md",
-    "(200) Notes/Asymptotic notation.md",
     "(200) Notes/NP-completeness.md",
     "(200) Notes/Theta notation.md",
     "(200) Notes/O notation.md",
     "(200) Notes/Leetcode.md",
     "(200) Notes/Error function.md",
     "(300) Permanent/3. Longest Substring Without Repeating Characters.md",
-    "(300) Permanent/4. Longest common prefix.md",
-    "(200) Notes/Gradient descent.md",
-    "(200) Notes/example ASM.md",
-    "(200) Notes/Stream agenda.md",
     "(100) Attachments/gradient-descen.png",
     "Excalidraw",
     "(100) Attachments/function theta.png",
