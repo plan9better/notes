@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,9 +202,10 @@
   },
   "active": "b87d1be649d763be",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-12 17.58.49.excalidraw.md",
+    "(200) Notes/Djikstras algorithm.md",
     "Excalidraw/djikstragraph.excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 17.36.56.excalidraw.md",
-    "(200) Notes/Djikstras algorithm.md",
     "(200) Notes/Graphs (DSA).md",
     "(200) Notes/Minimum spanning trees.md",
     "(200) Notes/Prims algorithm.md",
@@ -227,7 +229,6 @@
     "(300) Permanent/sample.md",
     "(300) Permanent/3. Longest Substring Without Repeating Characters.md",
     "(200) Notes/Red Black Trees.md",
-    "(200) Notes/Self Balancing BST.md",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
     "(100) Attachments/linear-regression.png",
