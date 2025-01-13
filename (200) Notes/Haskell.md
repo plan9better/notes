@@ -29,4 +29,4 @@ myvar' = "myvar"
 ```
 
 ### Lists
-Lists are homogenous (store values of the same type, e.g. "thisstring" i)
+Lists are homogenous (store values of the same type, e.g. "thisstring" is a list of characters)
