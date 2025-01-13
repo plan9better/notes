@@ -8,4 +8,4 @@
 - [[Competitions]]
 - [[Cloud]]
 - [[System Admin]]
-- 
+- [Projects](Projects.md)

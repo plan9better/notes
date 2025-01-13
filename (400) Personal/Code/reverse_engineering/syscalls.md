@@ -1,4 +1,4 @@
-ask the OS kernel to perfrom some action (read from keyboard, write to screen) through a [[software_interrupt]]
+ask the OS kernel to perfrom some action (read from keyboard, write to screen) through a [[Software Interrupt]]
 
 
 usermode:
@@ -6,7 +6,7 @@ usermode:
 syscall:
     please write this string for me
 
-On linux, check the [[software_interrupt]] table and prepare registers as needed.
+On linux, check the [[Software Interrupt]] table and prepare registers as needed.
 To syscall exit:
 ```asm
 mov eax, 0x1    ; exit software interrupt code
