@@ -1,0 +1,11 @@
+- JDK for dev
+- JRE for running
+- JDK includes JRE
+- Gets compiled into bytecode which is then run by JVM.
+- Garbage Colleced
+    - Objects are created on the heap. Java's heap is garbage collectible so [[JVM]] automatically allocates memory and frees that memory when it sees that an object can no longer be used.
+    - After creating an object if you set the only referance to that object to `null` the object is then eligible for garbage collection since it no longer can be accessed
+- Main method is the entry to the app, an app must have a psvm method.
+- Compile a .java file to .class with `%javac` and run it with `%java`, you need to have JDK to compile
+- [Types (Java)](Types%20(Java).md)
+

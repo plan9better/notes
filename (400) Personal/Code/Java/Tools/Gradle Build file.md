@@ -1,4 +1,6 @@
-`build.[[gradle]]` file for a Minecraft mod in detail:
+[gradle](gradle.md) config file, one of main 2 along with [[Gradle Settings file|settings.gradle]].
+
+`build.gradle` file for a Minecraft mod in detail:
 
 ```gradle
 plugins {
