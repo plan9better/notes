@@ -1,1 +1,0 @@
-Control privelages of individual instances

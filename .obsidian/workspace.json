@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(400) Personal/Code/CPP/Types.md",
+                "file": "(400) Personal/Code/C_Language/C.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Types"
+              "title": "C"
             }
           }
         ]
@@ -191,9 +191,23 @@
   },
   "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
+    "(400) Personal/Code/C_Language/Standard_Library/Input Output.md",
+    "(400) Personal/Code/C_Language/Standard_Library/String_Formatting.md",
+    "(400) Personal/Code/C_Language/Standard_Library/Standard_Library.md",
+    "(400) Personal/Code/C_Language/C.md",
+    "(400) Personal/Code/C_Language/Gdb.md",
+    "(400) Personal/Code/C_Language/Tools/Tools.md",
+    "(400) Personal/Code/C_Language/Streams.md",
+    "(400) Personal/Code/C_Language/Core_Concepts/networking.md",
+    "(400) Personal/Code/C_Language/Core_Concepts/Core_Concepts.md",
+    "(200) Notes/Cloud/Cloud.md",
+    "(400) Personal/Code/cloud/AWS/EC2.md",
+    "(400) Personal/Code/cloud/AWS/Control groups.md",
+    "(400) Personal/Code/cloud/AWS/AWS.md",
+    "(200) Notes/CPP/CPP.md",
+    "(200) Notes/CPP/Types (CPP).md",
     "(400) Personal/Code/CPP/Unsigned.md",
-    "(400) Personal/Code/CPP/Types.md",
-    "(400) Personal/Code/CPP/Lambda Expressions.md",
+    "(200) Notes/CPP/Lambda Expressions.md",
     "(200) Notes/Game Hacking/Unity.md",
     "(200) Notes/TORvsVPN.md",
     "(400) Personal/Code/Hacking/wordpress.md",
@@ -206,20 +220,6 @@
     "(100) Attachments/IVT.png",
     "(200) Notes/Java/Gradle.md",
     "(400) Personal/Code/Java/Core_Concepts/Program_Structure.md",
-    "(400) Personal/Code/Java/Standard_Library/Standard_Library.md",
-    "(400) Personal/Code/Java/Tools/Tools.md",
-    "(200) Notes/Java/Gradle Build file.md",
-    "(200) Notes/Java/Java.md",
-    "(200) Notes/Java/Types (Java).md",
-    "(400) Personal/Code/Java/Java_Language.md",
-    "(400) Personal/Code/Java/Core_Concepts/How_it_works.md",
-    "(400) Personal/Code/Java/Core_Concepts/Garbage Collection (Java).md",
-    "(400) Personal/Code/Java/Core_Concepts/JVM.md",
-    "(400) Personal/Code/Java/Core_Concepts/Core_Concepts.md",
-    "(200) Notes/System Admin/Networking.md",
-    "(400) Personal/Code/Lua_Language/Lua_Language.md",
-    "(200) Notes/System Admin/System Admin.md",
-    "(500) Root/Launch.md",
     "Excalidraw",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
