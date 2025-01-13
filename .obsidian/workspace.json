@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Projects.md",
+                "file": "(200) Notes/Haskell/Haskell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "Haskell"
             }
           }
         ]
@@ -190,11 +190,13 @@
   },
   "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
+    "(200) Notes/Projects.md",
+    "(500) Root/Launch.md",
+    "(200) Notes/System Admin/System Admin.md",
     "(200) Notes/CPP/CPP.md",
     "(200) Notes/C/Gdb.md",
     "(200) Notes/C/C.md",
     "(200) Notes/Haskell/Haskell.md",
-    "(500) Root/Launch.md",
     "(200) Notes/Competitions/Competitions.md",
     "(200) Notes/C/Streams.md",
     "(200) Notes/Data Structures and Algorithms/Min Heap.md",
@@ -221,8 +223,6 @@
     "(200) Notes/Asm/Asm.md",
     "(400) Personal/Code/Asm/wia2.md",
     "(200) Notes/Blockchain/Monero.md",
-    "(400) Personal/Code/Blockchain/Blockchain.md",
-    "(400) Personal/Code/C_Language/Standard_Library/Input Output.md",
     "(100) Attachments/callstack.png",
     "(100) Attachments/PlanFlowChart.png",
     "(100) Attachments/IVT.png",
