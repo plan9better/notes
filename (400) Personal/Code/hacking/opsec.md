@@ -1,1 +1,1 @@
-- Use VPN with [[ufw]] rules that disallow any access not through the vpn
+- Use VPN with [[Ufw]] rules that disallow any access not through the vpn

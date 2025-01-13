@@ -1,4 +1,4 @@
-[[ssh]] settings and general config
+[[SSH]] settings and general config
 
 Path: `/etc/ssh/sshd_config`
 important settings:
