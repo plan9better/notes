@@ -38,6 +38,9 @@ myvar' = "myvar"
 
 ### Lists
 Lists are homogenous (store values of the same type, e.g. "thisstring" is a list of characters) [[Lists (Haskell)|details]]
+List comprehensions are like [Mathemathical](Math.md) set comprehensions. e.g. for a set of first 10 even natural numbers:
+Math: $S = {2 \times x | x \in N, x <= 10}$
+Haskell `S = [2 * x | x <- [1 .. 10]]
 
 ### Types
 
