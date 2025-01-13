@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(400) Personal/Code/plans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "plans"
             }
           }
         ]
@@ -191,10 +191,17 @@
   },
   "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
-    "(200) Notes/DSA.md",
+    "(400) Personal/Code/cloud/cloud.md",
     "(500) Root/Launch.md",
-    "(200) Notes/Leetcode.md",
+    "(200) Notes/System Admin.md",
+    "(200) Notes/Capture The Flag.md",
+    "(200) Notes/Competitions.md",
+    "(200) Notes/Comptitive Programming.md",
+    "(200) Notes/Data Structures and Algorithms.md",
     "(500) Root/ASD.md",
+    "(200) Notes/Gradient descent.md",
+    "(200) Notes/Machine Learning.md",
+    "(200) Notes/Leetcode.md",
     "(200) Notes/Haskell.md",
     "(200) Notes/Lists (Haskell).md",
     "(200) Notes/Binary Search Trees.md",
@@ -210,13 +217,6 @@
     "(200) Notes/Graphs (DSA).md",
     "(200) Notes/Kruskals algorithm.md",
     "(200) Notes/Minimum spanning trees.md",
-    "(200) Notes/Prims algorithm.md",
-    "(200) Notes/Greedy algorithms.md",
-    "(200) Notes/Asymptotic relations.md",
-    "(200) Notes/Asymptotic notation.md",
-    "(200) Notes/Graph algorithms.md",
-    "(200) Notes/Shortest paths.md",
-    "Excalidraw/Drawing 2025-01-12 17.36.56.excalidraw.md",
     "Excalidraw",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",

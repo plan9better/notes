@@ -1,4 +1,4 @@
-A **graph** is a [[DSA|mathematical structure]] used to model pairwise relationships between objects. It consists of:
+A **graph** is a [[Data Structures and Algorithms|mathematical structure]] used to model pairwise relationships between objects. It consists of:
 
 1. **Vertices (Nodes):** The objects or points in the graph.
 2. **Edges:** The connections between the vertices. These can be:

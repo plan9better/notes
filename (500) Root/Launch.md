@@ -1,7 +1,11 @@
-- [[DSA]]
-- [[Stream agenda]]
+- [[Data Structures and Algorithms]]
 - [[Leetcode]]
-- [[ML]]
-- [[Math]]
 - [[Cryptohack]]
+- [[Machine Learning]]
+- [[Math]]
+- [[Physics]]
 - [Haskell](Haskell.md)
+- [[Competitions]]
+- [[Cloud]]
+- [[System Admin]]
+- 
