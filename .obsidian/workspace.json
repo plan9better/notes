@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Data Structures and Algorithms/Min Heap.md",
+                "file": "(200) Notes/Competitions/Competitions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Min Heap"
+              "title": "Competitions"
             }
           }
         ]
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +188,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c80438181df13b99",
+  "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
+    "(500) Root/Launch.md",
+    "(200) Notes/C/C.md",
+    "(200) Notes/C/Streams.md",
+    "(200) Notes/Data Structures and Algorithms/Min Heap.md",
     "(200) Notes/Stock Market/Market volatility.md",
     "(200) Notes/Stock Market",
     "(200) Notes/Math/Gaussian processes.md",
@@ -205,7 +208,6 @@
     "(200) Notes/Data Structures and Algorithms/Computational Complexity Theory.md",
     "(200) Notes/Data Structures and Algorithms",
     "(200) Notes/Competitions/Cryptohack.md",
-    "(500) Root/Launch.md",
     "(200) Notes/Comp Arch.md",
     "(200) Notes/Math",
     "(500) Root/ASD.md",
@@ -220,10 +222,7 @@
     "(400) Personal/Code/C_Language/Standard_Library/Input Output.md",
     "(400) Personal/Code/C_Language/Standard_Library/Standard_Library.md",
     "(400) Personal/Code/C_Language/Standard_Library/String_Formatting.md",
-    "(200) Notes/C/C.md",
     "(200) Notes/C/Gdb.md",
-    "(400) Personal/Code/C_Language/Tools/Tools.md",
-    "(200) Notes/C/Streams.md",
     "(100) Attachments/callstack.png",
     "(100) Attachments/PlanFlowChart.png",
     "(100) Attachments/IVT.png",

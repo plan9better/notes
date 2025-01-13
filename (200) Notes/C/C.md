@@ -19,4 +19,14 @@ Copies src to dest, at most maxline characters.
 ```cpp
 snprintf(result, maxline, "format %s\n", args)
 ```
+
+### Streams
+file descriptors to a stream of data
+Predefined:
+- stdin
+- stdout
+- stderr
 copies into result, at most maxline characters that result from the format
+
+### Debugging
+Use [Gdb](Gdb.md)
