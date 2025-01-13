@@ -48,8 +48,3 @@ If you decide to use pfSense on your custom firewall, this book is a great guide
 
 Remember, technology changes rapidly, so try to get the most recent editions of these books. Also, supplement your reading with online resources, as they're often more up-to-date with the latest developments.
 Would you like recommendations for any online resources or courses to complement these books?
-
-```ccard
-type: folder_brief_live
-```
- 

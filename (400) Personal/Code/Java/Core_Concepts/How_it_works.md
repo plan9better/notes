@@ -2,5 +2,5 @@
 - JRE for running
 - JDK includes JRE
 - [[Java_Language]] gets compiled into bytecode which is then run by [[JVM]]
-- [[Garbage_Collection]]
-- [[(400) Personal/Code/Java_Language/Core_Concepts/Types]]
+- [[Garbage Collection (Java)]]
+- [[(400) Personal/Code/Java/Core_Concepts/Types]]

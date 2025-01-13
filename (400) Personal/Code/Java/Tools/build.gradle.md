@@ -87,4 +87,4 @@ This `build.[[gradle]]` file is relatively minimal. For more complex mods, you m
 - Custom tasks for processing resources or generating code.
 - Additional run configurations (e.g., for a dedicated server).
 - More complex dependency management.
-- Integration with other [[(400) Personal/Code/Java_Language/Tools/Tools|Tools]] or services.
+- Integration with other [[(400) Personal/Code/Java/Tools/Tools|Tools]] or services.

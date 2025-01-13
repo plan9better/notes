@@ -7,5 +7,5 @@
 - [Haskell](Haskell.md)
 - [[Competitions]]
 - [[Cloud]]
-- [[System Admin]]
+- [System Admin](System%20Admin.md)
 - [Projects](Projects.md)
