@@ -58,4 +58,13 @@ take 10 [1,2]
 
 drop 3 [1,2,3,4,5,6]
 [4,5,6]
+
+elem 4 [1,2,3,4]
+True
+
+elem 10 [1,2,3,4]
+False
+
+%%-----Others-that-are-easy-to-guess----%%
+%% minimum, maximum, sum, product %%
 ```
