@@ -1,6 +1,6 @@
 ### TODO:
 - Implement some [Data Structures and/or algorithms](Data%20Structures%20and%20Algorithms.md) in haskell and use them in a [Project](Projects.md), for example by making a [Java](Java.md) library in haskell to use [Red Black Trees](Red%20Black%20Trees.md) to store some data. 
-- Finish book "Learn physics with function
+- Finish book "Learn [Physics](Physics) with functional programming".
 
 Functional, lazy, statically typed programming language.
 ## Functions

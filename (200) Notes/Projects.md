@@ -4,4 +4,4 @@
     - natural language searching
 2. NixOS home lab
 3. Car Marketplace
-4. 
+4. Decentralized discord with blockchain-esque architecture.
