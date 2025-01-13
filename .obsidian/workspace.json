@@ -11,12 +11,15 @@
             "id": "0d0881a3c92d0cbf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "(100) Attachments/djikstragraph.excalidraw.md"
+                "file": "(500) Root/Launch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "djikstragraph.excalidraw"
+              "icon": "lucide-file",
+              "title": "Launch"
             }
           }
         ]
@@ -186,17 +189,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c80438181df13b99",
+  "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
-    "(200) Notes/Math.md",
-    "(200) Notes/Lists (Haskell).md",
+    "(200) Notes/DSA.md",
+    "(500) Root/Launch.md",
+    "(200) Notes/Leetcode.md",
+    "(500) Root/ASD.md",
     "(200) Notes/Haskell.md",
+    "(200) Notes/Lists (Haskell).md",
+    "(200) Notes/Binary Search Trees.md",
+    "(200) Notes/Binary Tree.md",
+    "(100) Attachments/djikstragraph.excalidraw.md",
+    "(200) Notes/Math.md",
     "(200) Notes/Min Heap.md",
     "Excalidraw/Drawing 2025-01-12 17.58.49.excalidraw.md",
-    "(500) Root/ASD.md",
     "(100) Attachments/Graph62.excalidraw.md",
     "(100) Attachments/Graph6.excalidraw.md",
-    "(100) Attachments/djikstragraph.excalidraw.md",
     "(200) Notes/Djikstras algorithm.md",
     "(200) Notes/Bellman-Ford algorithm.md",
     "(200) Notes/Graphs (DSA).md",
@@ -204,17 +212,12 @@
     "(200) Notes/Minimum spanning trees.md",
     "(200) Notes/Prims algorithm.md",
     "(200) Notes/Greedy algorithms.md",
-    "(200) Notes/DSA.md",
     "(200) Notes/Asymptotic relations.md",
     "(200) Notes/Asymptotic notation.md",
     "(200) Notes/Graph algorithms.md",
     "(200) Notes/Shortest paths.md",
     "Excalidraw/Drawing 2025-01-12 17.36.56.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-12 16.54.54.excalidraw.md",
     "Excalidraw",
-    "(200) Notes/Gaussian distribution.md",
-    "(200) Notes/example ASM.md",
-    "(200) Notes/Comp Arch.md",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
     "(100) Attachments/linear-regression.png",

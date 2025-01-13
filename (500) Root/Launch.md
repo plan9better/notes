@@ -4,3 +4,4 @@
 - [[ML]]
 - [[Math]]
 - [[Cryptohack]]
+- [Haskell](Haskell.md)
