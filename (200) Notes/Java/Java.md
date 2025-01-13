@@ -7,5 +7,6 @@
     - After creating an object if you set the only referance to that object to `null` the object is then eligible for garbage collection since it no longer can be accessed
 - Main method is the entry to the app, an app must have a psvm method.
 - Compile a .java file to .class with `%javac` and run it with `%java`, you need to have JDK to compile
-- [Types (Java)](Types%20(Java).md)
+- More about [Types in Java](Types%20(Java).md)
+- 2 options of a build system: [[Maven]] and [Gradle](Gradle.md)
 

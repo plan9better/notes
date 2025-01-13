@@ -3,5 +3,3 @@ Kind of like [[make]] but for java. Automates compiling, running, dependency man
 - Automatically downloads and manages dependencies
 - Splits the work into tasks
 - Supports plugins, for minecraft there is a forge gradle plugin.
-- More about [Types in Java](Types%20(Java).md)
-- 2 options of a build system
