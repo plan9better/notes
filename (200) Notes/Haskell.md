@@ -19,5 +19,14 @@ In haskell conditions have to be functions, additionally the `else` part is **ne
 softmaxpartial x = if x < 0 
             then 0
             else x
-softmax x = (if x < 0 then 0 else x) 
 ```
+
+### Variables
+Variables are functions that don't have input arguments, just return a value.
+```haskell
+myvar = 10 + 83
+myvar' = "myvar"
+```
+
+### Lists
+Lists are homogenous (store values of the same type, e.g. "thisstring" i)
