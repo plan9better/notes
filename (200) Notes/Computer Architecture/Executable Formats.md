@@ -2,7 +2,7 @@
 [[PE]] - Windows exe (Portable executable)
 [[AIF]] - ARM exe (Arm image file)
 
-LSB - [[endiannes|little endian]] 
-??? - [[endiannes| big endian]] 
+LSB - [[Endiannes|little endian]] 
+??? - [[Endiannes| big endian]] 
 
 statically linked - libraries are outside of the executable

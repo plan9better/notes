@@ -1,4 +1,4 @@
-Program executes by loading itself into memory and then instruction by instruction the cpu fetches the [[opcodes|machine code]] of the program from RAM ==(**fetch-execute cycle**)==.
+Program executes by loading itself into memory and then instruction by instruction the cpu fetches the [[Opcodes|machine code]] of the program from RAM ==(**fetch-execute cycle**)==.
 ==[[asm|Instruction pointer (ip)]]== points to the place in memory where the next instruction is waiting for the cpu to fetch it.
 
 Example of program execution on linux:
