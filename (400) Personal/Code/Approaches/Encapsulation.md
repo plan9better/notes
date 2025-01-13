@@ -1,1 +1,0 @@
-- getters and setters are used to check if the value you want to put in a variable is compatible with that variable as well as allow you to change the functionality without breaking code that uses those methods

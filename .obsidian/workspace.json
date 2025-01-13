@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(400) Personal/Code/C_Language/C.md",
+                "file": "(200) Notes/Data Structures and Algorithms/Asymptotic notation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Asymptotic notation"
             }
           }
         ]
@@ -189,38 +189,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d0881a3c92d0cbf",
+  "active": "c80438181df13b99",
   "lastOpenFiles": [
+    "(200) Notes/Computational Complexity Theory.md",
+    "(200) Notes/Data Structures and Algorithms",
+    "(200) Notes/Cryptohack.md",
+    "(500) Root/Launch.md",
+    "(200) Notes/Comp Arch.md",
+    "(200) Notes/Math",
+    "(500) Root/ASD.md",
+    "Excalidraw/Drawing 2025-01-13 18.15.40.excalidraw.md",
+    "Excalidraw",
+    "(400) Personal/Code/Approaches/TDD.md",
+    "(400) Personal/Code/Approaches/Plan.md",
+    "(200) Notes/Asm/Asm.md",
+    "(400) Personal/Code/Asm/wia2.md",
+    "(200) Notes/Blockchain/Monero.md",
+    "(400) Personal/Code/Blockchain/Blockchain.md",
     "(400) Personal/Code/C_Language/Standard_Library/Input Output.md",
-    "(400) Personal/Code/C_Language/Standard_Library/String_Formatting.md",
     "(400) Personal/Code/C_Language/Standard_Library/Standard_Library.md",
-    "(400) Personal/Code/C_Language/C.md",
-    "(400) Personal/Code/C_Language/Gdb.md",
+    "(400) Personal/Code/C_Language/Standard_Library/String_Formatting.md",
+    "(200) Notes/C/C.md",
+    "(200) Notes/C/Gdb.md",
     "(400) Personal/Code/C_Language/Tools/Tools.md",
-    "(400) Personal/Code/C_Language/Streams.md",
+    "(200) Notes/C/Streams.md",
     "(400) Personal/Code/C_Language/Core_Concepts/networking.md",
     "(400) Personal/Code/C_Language/Core_Concepts/Core_Concepts.md",
     "(200) Notes/Cloud/Cloud.md",
     "(400) Personal/Code/cloud/AWS/EC2.md",
     "(400) Personal/Code/cloud/AWS/Control groups.md",
     "(400) Personal/Code/cloud/AWS/AWS.md",
-    "(200) Notes/CPP/CPP.md",
-    "(200) Notes/CPP/Types (CPP).md",
-    "(400) Personal/Code/CPP/Unsigned.md",
-    "(200) Notes/CPP/Lambda Expressions.md",
-    "(200) Notes/Game Hacking/Unity.md",
-    "(200) Notes/TORvsVPN.md",
-    "(400) Personal/Code/Hacking/wordpress.md",
-    "(400) Personal/Code/Hacking/wifi.md",
-    "(400) Personal/Code/Hacking/opsec.md",
-    "(400) Personal/Code/Hacking/hacking.md",
-    "(400) Personal/Code/Hacking/airmon-ng.md",
     "(100) Attachments/callstack.png",
     "(100) Attachments/PlanFlowChart.png",
     "(100) Attachments/IVT.png",
-    "(200) Notes/Java/Gradle.md",
-    "(400) Personal/Code/Java/Core_Concepts/Program_Structure.md",
-    "Excalidraw",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
     "(100) Attachments/linear-regression.png",
@@ -234,8 +235,6 @@
     "(100) Attachments",
     "(000) System",
     "(400) Personal/Code/OS/Linux/server/ssh",
-    "(400) Personal/Code/OS/Linux/server",
-    "(400) Personal/Code/cloud/AWS",
-    "(400) Personal/Code/reverse_engineering/architecture"
+    "(400) Personal/Code/OS/Linux/server"
   ]
 }

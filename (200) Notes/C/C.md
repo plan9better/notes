@@ -5,7 +5,7 @@ fgets(buf, sizeof(buf),  [[Streams|stream]])
 ```
 reads at most sizeof(buf) - 1 bytes or until a newline, leaves room for null terminator
 ```
-testing123 (enter)
+testing123(enter)
 -> "Testing123\n\0"
 ```
 

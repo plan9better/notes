@@ -5,11 +5,11 @@ IVT (interrupt vector table) in [[x86]] and IDT (interrupt descriptor table) in 
 
 ![[IVT.png]]
 
-e.g. in [[asm]]:
+e.g. in [[Asm]]:
 ```asm
 int 0x2
 ```
-will check the table and switch to kernel mode to jump the [[asm|IP (instruciton pointer)]] to the place which stores  ==Timer 1== block of code and then 
+will check the table and switch to kernel mode to jump the [[Asm|IP (instruciton pointer)]] to the place which stores  ==Timer 1== block of code and then 
 ```asm
 iret
 ```
