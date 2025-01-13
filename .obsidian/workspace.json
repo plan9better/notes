@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Haskell/Lists (Haskell).md",
+                "file": "(200) Notes/CPP/CPP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lists (Haskell)"
+              "title": "CPP"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
+    "(200) Notes/Haskell/Lists (Haskell).md",
     "(200) Notes/Haskell/Haskell.md",
     "(200) Notes/Projects.md",
     "(500) Root/Launch.md",
@@ -222,7 +223,6 @@
     "(400) Personal/Code/Approaches/Plan.md",
     "(200) Notes/Asm/Asm.md",
     "(400) Personal/Code/Asm/wia2.md",
-    "(200) Notes/Blockchain/Monero.md",
     "(100) Attachments/callstack.png",
     "(100) Attachments/PlanFlowChart.png",
     "(100) Attachments/IVT.png",
