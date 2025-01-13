@@ -1,0 +1,3 @@
+- To install a python program package globally - pipx
+- Usually you want to make a [Venv](Venv.md)
+- Alternatively some people like to use [Conda]() and it's many distributions (miniconda, anaconda)

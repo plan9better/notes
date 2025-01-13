@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(400) Personal/Code/Python_Language/Tools/Pip.md",
+                "file": "(400) Personal/Code/OS/Linux/server/sudo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pip"
+              "title": "sudo"
             }
           }
         ]
@@ -191,8 +191,21 @@
   },
   "active": "0d0881a3c92d0cbf",
   "lastOpenFiles": [
-    "(400) Personal/Code/Python_Language/Django.md",
+    "(400) Personal/Code/OS/Linux/server/Shared Memory.md",
+    "(400) Personal/Code/OS/Linux/server/Hardening Debian.md",
+    "(400) Personal/Code/OS/Linux/server/server.md",
+    "(400) Personal/Code/OS/Linux/server/fail2ban.md",
+    "(400) Personal/Code/OS/Linux/server/ssh/sshd_config.md",
+    "(400) Personal/Code/OS/Linux/server/ssh/ssh_config.md",
+    "(400) Personal/Code/OS/Linux/server/ssh/ssh.md",
+    "(200) Notes/Projects.md",
+    "(400) Personal/Code/projects/TCP chat in C.md",
+    "(200) Notes/Python/Python.md",
     "(200) Notes/Computer Architecture/Architecture.md",
+    "(200) Notes/Python/Django.md",
+    "(200) Notes/Python/Pip.md",
+    "(200) Notes/Python/Venv.md",
+    "(400) Personal/Code/Python_Language/Tools/Tools.md",
     "(200) Notes/Computer Architecture/Endiannes.md",
     "(400) Personal/Code/reverse_engineering/ELF.md",
     "(200) Notes/Computer Architecture/Executable Formats.md",
@@ -204,19 +217,6 @@
     "(400) Personal/Code/reverse_engineering/Reverse Engineering.md",
     "(200) Notes/Computer Architecture/Security Rings.md",
     "(200) Notes/Computer Architecture/Software Interrupt.md",
-    "(200) Notes/Computer Architecture/Syscalls.md",
-    "(200) Notes/Computer Architecture/x64.md",
-    "(200) Notes/Computer Architecture/x86.md",
-    "(400) Personal/Code/Python_Language/Python Language.md",
-    "(400) Personal/Code/reverse_engineering/architecture/architecture.md",
-    "(200) Notes/Capture The Flag.md",
-    "(400) Personal/Code/plans.md",
-    "(400) Personal/Quick.md",
-    "(200) Notes/Haskell.md",
-    "(200) Notes/Greedy algorithms.md",
-    "(200) Notes/Standard deviation.md",
-    "(200) Notes/Skill rating systems.md",
-    "(400) Personal/Code/projects/Projects.md",
     "Excalidraw",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
