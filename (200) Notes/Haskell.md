@@ -30,3 +30,8 @@ myvar' = "myvar"
 
 ### Lists
 Lists are homogenous (store values of the same type, e.g. "thisstring" is a list of characters)
+```haskell
+%% concatenate lists %%
+[1, 2, 3] ++ [4, 5, 6]
+```
+When using the `++` opearator haskell has to step through all entries in the left list to append to the end. But using the `cons (:)` is instantaneus.
