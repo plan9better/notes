@@ -1,3 +1,7 @@
+### TODO:
+- Implement some [Data Structures and/or algorithms](Data%20Structures%20and%20Algorithms.md) in haskell and use them in a [Project](Projects.md), for example by making a [Java](Java.md) library in haskell to use [Red Black Trees](Red%20Black%20Trees.md) to store some data. 
+- Finish book "Learn physics with function
+
 Functional, lazy, statically typed programming language.
 ## Functions
 In Haskell functions play a key role. They work a bit like math functions, a function can only take 1 argument at a time but you can make it seem like it takes more by currying, that is function composition. For example:
@@ -22,7 +26,7 @@ softmaxpartial x = if x < 0
 ```
 
 ### Variables
-Variables are functions that don't have input arguments, just return a value.
+Variables are functions that don't have input arguments, just return a value. Therefore all haskell variables are constant.
 ```haskell
 myvar = 10 + 83
 myvar' = "myvar"
