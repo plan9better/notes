@@ -10,6 +10,7 @@ Comparing strings looks at the first one and if they are equal, the next one and
 #### Operations
 ```
 [1, 2, 3] !! 0 :[2, 3] 
+[1,2,3]
 
 [3, 2, 1] > [2, 1, 0]
 True
