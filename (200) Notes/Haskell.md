@@ -13,3 +13,11 @@ x = 92 `div` 10
 ```
 Which will evaluate to 9.
 
+### Conditionals
+In haskell conditions have to be functions, additionally the `else` part is **necessary**:
+```haskell
+softmaxpartial x = if x < 0 
+            then 0
+            else x
+softmax x = (if x < 0 then 0 else x) 
+```
