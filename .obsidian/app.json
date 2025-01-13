@@ -15,12 +15,13 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "(200) Notes",
-  "readableLineLength": false,
+  "readableLineLength": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "useMarkdownLinks": true
 }

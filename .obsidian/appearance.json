@@ -1,6 +1,8 @@
 {
   "accentColor": "#00940a",
-  "cssTheme": "Things",
+  "cssTheme": "Shimmering Focus",
   "baseFontSize": 19,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Helvetica",
+  "textFontFamily": "Helvetica"
 }
