@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/System Admin/Bash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "Bash"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,9 +192,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(500) Root/Launch.md",
     "(200) Notes/Haskell/Haskell.md",
     "(200) Notes/Python/Python.md",
-    "(500) Root/Launch.md",
     "(500) Root/ASD.md",
     "(200) Notes/CPP/CPP.md",
     "(200) Notes/Haskell/Lists (Haskell).md",
