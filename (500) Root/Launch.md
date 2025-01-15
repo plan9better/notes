@@ -5,6 +5,7 @@
 - [[Math]]
 - [[Physics]]
 - [Haskell](Haskell.md)
+- [[Nix]]
 - [[Competitions]]
 - [[Cloud]]
 - [System Admin](System%20Admin.md)

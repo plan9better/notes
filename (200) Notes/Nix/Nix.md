@@ -1,0 +1,2 @@
+Nix is a package manager (as well as a functional declarative language) for reproducible and [[declarative]] environments. It is also the base of [[NixOS]].
+In the Nix language you use [[Nixpkgs]] [[Nixpgs modules|modules]], to orgnize the code into modules.

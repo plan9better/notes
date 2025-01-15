@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/System Admin/Bash.md",
+                "file": "(200) Notes/Nixpgs modules.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash"
+              "title": "Nixpgs modules"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,30 +175,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(200) Notes/Nix/Nix.md",
+    "(200) Notes/Nixpgs modules.md",
+    "(200) Notes/Nixpkgs.md",
+    "(200) Notes/Nix/NixOS.md",
     "(500) Root/Launch.md",
-    "(200) Notes/Haskell/Haskell.md",
     "(200) Notes/Python/Python.md",
+    "(200) Notes/Nix/flake.nix.md",
+    "(200) Notes/Nix modules.md",
+    "(200) Notes/System Admin/System Admin.md",
+    "(200) Notes/Projects.md",
+    "(200) Notes/Nix",
+    "(200) Notes/System Admin/Bash.md",
+    "(200) Notes/Haskell/Haskell.md",
     "(500) Root/ASD.md",
     "(200) Notes/CPP/CPP.md",
     "(200) Notes/Haskell/Lists (Haskell).md",
-    "(200) Notes/Projects.md",
-    "(200) Notes/System Admin/System Admin.md",
     "(200) Notes/C/Gdb.md",
     "(200) Notes/C/C.md",
     "(200) Notes/Competitions/Competitions.md",
@@ -215,16 +223,9 @@
     "(200) Notes/example ASM.md",
     "(200) Notes/Data Structures and Algorithms/Asymptotic notation.md",
     "(200) Notes/Competitions",
-    "(200) Notes/Data Structures and Algorithms/Computational Complexity Theory.md",
     "(200) Notes/Data Structures and Algorithms",
-    "(200) Notes/Competitions/Cryptohack.md",
-    "(200) Notes/Comp Arch.md",
     "(200) Notes/Math",
-    "Excalidraw/Drawing 2025-01-13 18.15.40.excalidraw.md",
     "Excalidraw",
-    "(400) Personal/Code/Approaches/TDD.md",
-    "(400) Personal/Code/Approaches/Plan.md",
-    "(200) Notes/Asm/Asm.md",
     "(100) Attachments/callstack.png",
     "(100) Attachments/PlanFlowChart.png",
     "(100) Attachments/IVT.png",
@@ -236,7 +237,6 @@
     "(100) Attachments/linear-theta.png",
     "(100) Attachments/asymptotic-notation-graph.png",
     "(400) Personal",
-    "(300) Permanent",
-    "(200) Notes"
+    "(300) Permanent"
   ]
 }

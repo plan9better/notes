@@ -1,0 +1,1 @@
+Nixpkgs is a repository of packages for [Nix](Nix.md) and [NixOS](NixOS.md)

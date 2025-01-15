@@ -1,0 +1,1 @@
+NixOS is a linux distribution built on the [[Nix]]  package manager. It is supposed to be an **OS as Code**. To manage packages and settings on a NixOS system the user uses [[configuration.nix]] as well as [[flake.nix]].
