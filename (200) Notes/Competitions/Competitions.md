@@ -2,6 +2,6 @@
 - [[Capture The Flag]]
 - [[Comptitive Programming]]
 - [Cryptohack](Cryptohack.md)
-- [Leetcode](Leetcode.md)
+- [CompProg](CompProg.md)
 - [[Code Forces]]
 - [[pnwable.kr]]

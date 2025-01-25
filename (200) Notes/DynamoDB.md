@@ -1,0 +1,1 @@
+Non-relational DB (document database like mongodb). Just create table and add items.

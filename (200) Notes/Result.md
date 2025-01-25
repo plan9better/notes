@@ -1,0 +1,1 @@
+Works the same as [Option](Option.md) but instead of `Some(x)` or `None` it has `Ok(x)` or `Err`.

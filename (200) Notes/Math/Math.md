@@ -1,1 +1,2 @@
-- [[Gaussian processes]]
+- [[Statistics]]
+- [[Category Theory]]

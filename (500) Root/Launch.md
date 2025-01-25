@@ -1,12 +1,15 @@
 - [[Data Structures and Algorithms]]
-- [[Leetcode]]
+- [[CompProg]]
 - [[Cryptohack]]
 - [[Machine Learning]]
 - [[Math]]
 - [[Physics]]
 - [Haskell](Haskell.md)
+- [[Nushell]]
+- [[Rust]]
 - [[Nix]]
 - [[Competitions]]
 - [[Cloud]]
 - [System Admin](System%20Admin.md)
 - [Projects](Projects.md)
+- [Math](Math.md)
