@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Nix/flake.nix.md",
+                "file": "(500) Root/Launch.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flake.nix"
-            }
-          },
-          {
-            "id": "609dc04954efd1ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(200) Notes/Physics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Physics"
+              "title": "Launch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,14 +159,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1a0e9aefa25179bd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +185,14 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "609dc04954efd1ca",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "(500) Root/Launch.md",
     "(200) Notes/Physics.md",
+    "(500) Root/Launch.md",
     "(200) Notes/Nix/flake.nix.md",
     "(200) Notes/Nix/NixOS.md",
     "(200) Notes/Nix/Nix.md",
