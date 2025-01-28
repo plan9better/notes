@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Physics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "Physics"
             }
           }
         ]
@@ -191,8 +191,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "(200) Notes/Physics.md",
     "(500) Root/Launch.md",
+    "(200) Notes/Physics.md",
     "(200) Notes/Nix/flake.nix.md",
     "(200) Notes/Nix/NixOS.md",
     "(200) Notes/Nix/Nix.md",
