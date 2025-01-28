@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Nix/flake.nix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "flake.nix"
+            }
+          },
+          {
+            "id": "609dc04954efd1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(200) Notes/Physics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rust",
+                "query": "NP comple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,62 +186,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "609dc04954efd1ca",
   "lastOpenFiles": [
-    "(200) Notes/Nushell.md",
     "(500) Root/Launch.md",
-    "(200) Notes/Tuple.md",
-    "(200) Notes/Rust.md",
-    "(200) Notes/Array.md",
-    "(200) Notes/Result.md",
-    "(200) Notes/Option.md",
-    "(200) Notes/DynamoDB.md",
-    "(200) Notes/Cloud/Cloud.md",
-    "(200) Notes/Aurora.md",
-    "(200) Notes/RDS.md",
-    "(200) Notes/Athena.md",
-    "(200) Notes/Glue Crawler.md",
-    "(200) Notes/S3.md",
-    "(300) Permanent/asd.md",
-    "(300) Permanent/CompProg/4. Longest common prefix.md",
-    "(300) Permanent/CompProg/3. Longest Substring Without Repeating Characters.md",
-    "(300) Permanent/CompProg/Contains Duplicate.md",
+    "(200) Notes/Physics.md",
+    "(200) Notes/Nix/flake.nix.md",
+    "(200) Notes/Nix/NixOS.md",
+    "(200) Notes/Nix/Nix.md",
+    "(200) Notes/Data Structures and Algorithms/NP-completeness.md",
+    "(200) Notes/Data Structures and Algorithms/Data Structures and Algorithms.md",
+    "(200) Notes/Java/Java.md",
+    "(200) Notes/Nixpkgs modules.md",
+    "(200) Notes/declarative.md",
     "(200) Notes/Category Theory.md",
-    "(200) Notes/Math/Math.md",
-    "(200) Notes/Statistics.md",
-    "(200) Notes/Math/Gaussian processes.md",
-    "(200) Notes/Projects.md",
-    "(200) Notes/Competitions/CompProg.md",
-    "(200) Notes/CPP/std unordered_set.md",
-    "(300) Permanent/CompProg",
-    "(200) Notes/Competitions/Cryptohack.md",
-    "(200) Notes/Nix",
+    "(200) Notes/Aurora.md",
+    "(200) Notes/Athena.md",
+    "(200) Notes/Array.md",
+    "(200) Notes/Nushell.md",
+    "(300) Permanent/asd.md",
+    "(200) Notes/System Admin/Windows.md",
+    "(200) Notes/System Admin/Ufw.md",
+    "(200) Notes/System Admin/Tailscale.md",
+    "(200) Notes/System Admin/TORvsVPN.md",
+    "(200) Notes/System Admin/System Admin.md",
+    "(200) Notes/System Admin/Shared Memory.md",
+    "(200) Notes/System Admin/Sudo.md",
+    "(200) Notes/System Admin/SSH.md",
+    "(200) Notes/System Admin/SSH Config(Host).md",
+    "(200) Notes/System Admin/Powershell.md",
+    "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
-    "(200) Notes/Haskell",
-    "(200) Notes/Machine Learning",
-    "(200) Notes/Competitions",
-    "(200) Notes/Data Structures and Algorithms",
+    "(200) Notes/Python",
+    "(200) Notes/Nix",
     "(200) Notes/Math",
-    "Excalidraw",
+    "(200) Notes/Machine Learning",
+    "(200) Notes/Java",
+    "(200) Notes/Haskell",
+    "(200) Notes/Game Hacking",
+    "(200) Notes/Data Structures and Algorithms",
     "(100) Attachments/callstack.png",
     "(100) Attachments/PlanFlowChart.png",
     "(100) Attachments/IVT.png",
+    "(400) Personal/Code/img/callstack.png",
+    "(400) Personal/Code/img/PlanFlowChart.png",
+    "(400) Personal/Code/img/IVT.png",
     "(100) Attachments/gauss.png",
     "(100) Attachments/multivariate-gauss.png",
     "(100) Attachments/linear-regression.png",
-    "(100) Attachments/gradient-descen.png",
-    "(100) Attachments/function theta.png",
-    "(100) Attachments/linear-theta.png",
-    "(100) Attachments/asymptotic-notation-graph.png",
-    "(400) Personal"
+    "(100) Attachments/gradient-descen.png"
   ]
 }
