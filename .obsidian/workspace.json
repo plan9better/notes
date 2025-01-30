@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Variance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "Variance"
             }
           }
         ]
@@ -189,16 +189,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c80438181df13b99",
   "lastOpenFiles": [
-    "(200) Notes/Physics.md",
+    "(200) Notes/Gaussian distribution.md",
+    "(200) Notes/Error Function.md",
+    "(200) Notes/Gradle.md",
+    "(200) Notes/Theta notation.md",
+    "(200) Notes/CPP.md",
+    "(200) Notes/Architecture.md",
+    "(200) Notes/Cryptohack.md",
+    "(200) Notes/Cloud.md",
+    "(200) Notes/C.md",
+    "(200) Notes/Asm.md",
     "(500) Root/Launch.md",
+    "(200) Notes/Physics.md",
     "(200) Notes/Nix/flake.nix.md",
     "(200) Notes/Nix/NixOS.md",
     "(200) Notes/Nix/Nix.md",
-    "(200) Notes/Data Structures and Algorithms/NP-completeness.md",
-    "(200) Notes/Data Structures and Algorithms/Data Structures and Algorithms.md",
-    "(200) Notes/Java/Java.md",
+    "(200) Notes/NP-completeness.md",
+    "(200) Notes/Data Structures and Algorithms.md",
+    "(200) Notes/Java.md",
     "(200) Notes/Nixpkgs modules.md",
     "(200) Notes/declarative.md",
     "(200) Notes/Category Theory.md",
@@ -207,16 +217,6 @@
     "(200) Notes/Array.md",
     "(200) Notes/Nushell.md",
     "(300) Permanent/asd.md",
-    "(200) Notes/System Admin/Windows.md",
-    "(200) Notes/System Admin/Ufw.md",
-    "(200) Notes/System Admin/Tailscale.md",
-    "(200) Notes/System Admin/TORvsVPN.md",
-    "(200) Notes/System Admin/System Admin.md",
-    "(200) Notes/System Admin/Shared Memory.md",
-    "(200) Notes/System Admin/Sudo.md",
-    "(200) Notes/System Admin/SSH.md",
-    "(200) Notes/System Admin/SSH Config(Host).md",
-    "(200) Notes/System Admin/Powershell.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",

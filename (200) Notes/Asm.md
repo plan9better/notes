@@ -59,12 +59,12 @@ Simple Overview:
 
 ## Sections
 
-| Section Name | Description                                                                | Info                                                                 | Notes                                                       |
-| ------------ | -------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------- |
-| .text        | Contains the code of the program                                           | Executable by the CPU                                                | Read-only to prevent modification                           |
-| .data        | Houses the static data of the program that will be modified by the program | Usually stores globals and initialized data                          | Most likely will be read-write                              |
-| .bss         | Stores uninitialized data                                                  | Variables sizes in the section are known but values are 0 at runtime | Saves memory because you don't need to initialize variables |
-| .rdata       | Stores read-only data                                                      | Data is not modified during execution                                | Primary purpose is to hold constant data                    |
+| Section Name | Description                                                                     | Info                                                                 | Notes                                                       |
+| ------------ | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------- |
+| .text        | Contains the code of the program                                                | Executable by the CPU                                                | Read-only to prevent modification                           |
+| .data        | Houses the static data of the program that will be modified by during execution | Usually stores globals and initialized data                          | Most likely will be read-write                              |
+| .bss         | Stores uninitialized data                                                       | Variables sizes in the section are known but values are 0 at runtime | Saves memory because you don't need to initialize variables |
+| .rdata       | Stores read-only data                                                           | Data is not modified during execution                                | Primary purpose is to hold constant data                    |
 ## Hello world
 
 ```nasm
