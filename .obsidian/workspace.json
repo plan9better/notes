@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Rust.md",
+                "file": "(200) Notes/Ownership system (Rust).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Ownership system (Rust)"
             }
           }
         ]
@@ -192,6 +192,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(200) Notes/Rust.md",
+    "(200) Notes/Ownership system (Rust).md",
     "(200) Notes/x64.md",
     "(500) Root/ASD.md",
     "(300) Permanent/asd.md",
@@ -216,8 +218,6 @@
     "(200) Notes/NixOS.md",
     "(200) Notes/Nix.md",
     "(200) Notes/NP-completeness.md",
-    "(200) Notes/Data Structures and Algorithms.md",
-    "(200) Notes/Java.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",

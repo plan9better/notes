@@ -1,4 +1,4 @@
-Memory safety baby, strong types baby. Rust's main feature is it's compilers
+Memory safety baby, strong types baby. Rust's main feature is it's compiler and [[Ownership system (Rust)]].
 
 ### Creating a project
 - `cargo init` creates a project in current directory (can make a git repo with `--git`)
