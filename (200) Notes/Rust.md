@@ -1,4 +1,4 @@
-Memory safety baby, strong types baby.
+Memory safety baby, strong types baby. Rust's main feature is it's compilers
 
 ### Creating a project
 - `cargo init` creates a project in current directory (can make a git repo with `--git`)
