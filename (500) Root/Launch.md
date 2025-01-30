@@ -2,7 +2,7 @@
 - [[CompProg]]
 - [[Cryptohack]]
 - [[Machine Learning]]
-- [[Math]]
+- [Math](Math.md)
 - [[Physics]]
 - [Haskell](Haskell.md)
 - [[Nushell]]
@@ -12,4 +12,3 @@
 - [[Cloud]]
 - [System Admin](System%20Admin.md)
 - [Projects](Projects.md)
-- [Math](Math.md)
