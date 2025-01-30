@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rust",
+                "query": "show",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bf7a4c2229058940",
   "lastOpenFiles": [
     "(500) Root/Launch.md",
     "(200) Notes/Gaussian processes.md",
