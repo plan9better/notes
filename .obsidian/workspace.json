@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Physics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "Physics"
             }
           },
           {
@@ -43,8 +43,7 @@
               "title": "Release Notes 1.8.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbd32fb831c3b453",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "(500) Root/Launch.md",
     "(200) Notes/CPP.md",
