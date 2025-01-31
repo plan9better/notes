@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Dynamical law.md",
+                "file": "(200) Notes/Conservation law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dynamical law"
+              "title": "Conservation law"
             }
           },
           {
@@ -62,7 +62,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +96,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,10 +214,11 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "(200) Notes/Dynamical system.md",
-    "(200) Notes/State variables.md",
-    "(200) Notes/Dynamical law.md",
     "(200) Notes/System.md",
+    "(200) Notes/Conservation law.md",
     "(200) Notes/State of a system.md",
+    "(200) Notes/Dynamical law.md",
+    "(200) Notes/State variables.md",
     "(200) Notes/Classical physics.md",
     "(200) Notes/Physics.md",
     "(500) Root/Launch.md",
@@ -238,7 +239,6 @@
     "(200) Notes/Django.md",
     "(200) Notes/flake.nix.md",
     "(200) Notes/Variance.md",
-    "(200) Notes/Gaussian distribution.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
