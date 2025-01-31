@@ -1,0 +1,1 @@
+State variables in a [Dynamical system](Dynamical%20system.md) describe the current state and help us predict the next one. They are denoted $\sigma$.
