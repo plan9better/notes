@@ -21,15 +21,14 @@
             "id": "dbd32fb831c3b453",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dbd32fb831c3b453",
   "lastOpenFiles": [
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
