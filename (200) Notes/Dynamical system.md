@@ -1,0 +1,1 @@
+Dynamical system is a system which changes with time. It consists of more than a space of states but also a [Dynamical law](Dynamical%20law.md) (law of motion).

@@ -1,0 +1,1 @@
+Dynamical law or a law of motion is a rule that tells us the next state given the current state. e.g. The next state could be the same as current state so with the example of  a coin on a table 
