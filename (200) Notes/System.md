@@ -1,1 +1,1 @@
-System in physics is a 
+In classical physics we know everything about a system at a given point in time, and with that knowledge we can know for certain what will happen to the [State of the system](State%20of%20a%20system).
