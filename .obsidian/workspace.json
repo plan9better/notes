@@ -26,9 +26,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4edd8f9ceb3f87c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbd32fb831c3b453",
+  "active": "4edd8f9ceb3f87c0",
   "lastOpenFiles": [
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
