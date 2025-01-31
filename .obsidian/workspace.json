@@ -13,16 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/CPP.md",
+                "file": "(500) Root/Launch.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "CPP"
+              "title": "Launch"
+            }
+          },
+          {
+            "id": "dbd32fb831c3b453",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,11 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dbd32fb831c3b453",
   "lastOpenFiles": [
+    "(500) Root/Launch.md",
+    "(200) Notes/CPP.md",
     "(200) Notes/std unordered_set.md",
     "(200) Notes/Unity.md",
-    "(500) Root/Launch.md",
     "(200) Notes/Gaussian processes.md",
     "(200) Notes/Statistics.md",
     "(200) Notes/Math.md",
@@ -213,7 +236,6 @@
     "(200) Notes/Error Function.md",
     "(200) Notes/Gradle.md",
     "(200) Notes/Theta notation.md",
-    "(200) Notes/CPP.md",
     "(200) Notes/Architecture.md",
     "(200) Notes/Cryptohack.md",
     "(200) Notes/Cloud.md",
