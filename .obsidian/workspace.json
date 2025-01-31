@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Physics.md",
+                "file": "(200) Notes/System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "System"
             }
           },
           {
@@ -213,6 +213,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(200) Notes/Classical physics.md",
+    "(200) Notes/System.md",
+    "(200) Notes/Physics.md",
     "(500) Root/Launch.md",
     "(200) Notes/CPP.md",
     "(200) Notes/std unordered_set.md",
@@ -236,9 +239,6 @@
     "(200) Notes/Gradle.md",
     "(200) Notes/Theta notation.md",
     "(200) Notes/Architecture.md",
-    "(200) Notes/Cryptohack.md",
-    "(200) Notes/Cloud.md",
-    "(200) Notes/C.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",

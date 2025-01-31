@@ -1,0 +1,1 @@
+Classical physics refers to everything before the invention of [[Quantum mechanics]]. This is what most people think of when you mention [Physics](Physics.md). Predicting what will happen in a [[System]], shooting canonballs and blocks sliding on slopes included. 
