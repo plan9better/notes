@@ -7,3 +7,5 @@ Or it could be the oposite:
 1. $\{H, T, H, T, H, \dots\}$
 
 If the system is dynamical that means there is some variable that describes it. Such a [variable](State%20variables.md) is called $\sigma$.
+
+A valid dynamical law also has to be *reversible*, that means that we can know for sure the history of the state given the current state. There is no ambiguity, When described as ob
