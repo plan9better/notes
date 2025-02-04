@@ -47,3 +47,14 @@ Haskell: `S = [2 * x | x <- [1 .. 10]]
 Haskell with additional predicate: `S' = [2 * x | x <- [1 .. 10], x * 2 > 12]
 
 ### Types
+You can create a type alias with the `type` keyword.
+```haskell
+type R = Double
+```
+
+Or complex data types with the `data` keyword. (Using the above type alias)
+```haskell
+data Shape = Circle R R R | Square R R R R
+```
+This declares a type shape which can be a *circle* **or** a *square*.
+And also provides constructors for both of those in the form of 
