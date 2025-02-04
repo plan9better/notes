@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/CPP.md",
+                "file": "(200) Notes/std thread.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPP"
+              "title": "std thread"
             }
           }
         ],
@@ -251,11 +251,11 @@
   },
   "active": "76f52ca204967291",
   "lastOpenFiles": [
+    "(200) Notes/CPP.md",
     "(200) Notes/Passing functions as arguments.md",
     "(200) Notes/std thread.md",
     "(200) Notes/Operator overloading(CPP).md",
     "(500) Root/Launch.md",
-    "(200) Notes/CPP.md",
     "(200) Notes/Haskell.md",
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
