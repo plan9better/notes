@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Haskell.md",
+                "file": "(200) Notes/Operator overloading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Haskell"
+              "title": "Operator overloading"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haskell",
+                "query": "cpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,6 +227,9 @@
   },
   "active": "1df852c105d4b2eb",
   "lastOpenFiles": [
+    "(200) Notes/CPP.md",
+    "(200) Notes/Operator overloading.md",
+    "(200) Notes/Haskell.md",
     "(500) Root/Launch.md",
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
@@ -236,7 +239,6 @@
     "(200) Notes/State variables.md",
     "(200) Notes/Classical physics.md",
     "(200) Notes/Physics.md",
-    "(200) Notes/CPP.md",
     "(200) Notes/std unordered_set.md",
     "(200) Notes/Unity.md",
     "(200) Notes/Gaussian processes.md",
@@ -251,8 +253,6 @@
     "(200) Notes/Autounnatend.xml.md",
     "(200) Notes/Market volatility.md",
     "(200) Notes/Django.md",
-    "(200) Notes/flake.nix.md",
-    "(200) Notes/Variance.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",

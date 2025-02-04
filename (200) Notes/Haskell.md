@@ -59,4 +59,13 @@ data Shape = Circle R R R | Square R R R R
 This declares a type shape which can be a *circle* **or** a *square*.
 And also provides constructors for both of those (R R R and R R R R).
 
-![Lambda calculus
+[Lambda calculus](https://augustss.blogspot.com/2007/10/simpler-easier-in-recent-paper-simply.html)
+```haskell
+type Sym = String
+
+data Expr
+        = Var Sym
+        | App Expr Expr
+        | Lam Sym Expr
+        deriving (Eq, Read, Show)
+```
