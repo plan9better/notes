@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Launch"
             }
-          },
-          {
-            "id": "1df852c105d4b2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(200) Notes/Passing functions as arguments.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Passing functions as arguments"
-            }
-          },
-          {
-            "id": "76f52ca204967291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(200) Notes/Types (CPP).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Types (CPP)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76f52ca204967291",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(200) Notes/Types (CPP).md",
     "(200) Notes/CPP.md",
     "(200) Notes/Explicit.md",
     "(200) Notes/std thread.md",
@@ -276,7 +228,6 @@
     "(200) Notes/Rust.md",
     "(200) Notes/x64.md",
     "(500) Root/ASD.md",
-    "(300) Permanent/asd.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
