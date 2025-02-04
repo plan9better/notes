@@ -54,9 +54,19 @@
               "icon": "lucide-file",
               "title": "Passing functions as arguments"
             }
+          },
+          {
+            "id": "76f52ca204967291",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1df852c105d4b2eb",
+  "active": "76f52ca204967291",
   "lastOpenFiles": [
-    "(200) Notes/std thread.md",
     "(200) Notes/Passing functions as arguments.md",
+    "(200) Notes/std thread.md",
     "(200) Notes/Operator overloading(CPP).md",
     "(500) Root/Launch.md",
     "(200) Notes/CPP.md",
