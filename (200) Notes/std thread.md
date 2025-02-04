@@ -16,4 +16,9 @@ This program creates a new thread called *my_t* which immediately starts the *he
 
 `std::thread`'s constructor parameter takes any callable, including [Function call overloaded objects](Operator%20overloading(CPP)).
 
-When 
+When not using *named* variables make sure to avoid accidentaly defining a function instead of getting a value:
+```cpp
+std::thread my_thread(background_task());
+```
+declares a `my_thread` function that takes a single parameter of type *pointer-to-a-function-taking-no-parameters-and-returning-a-background_task-object*.
+
