@@ -57,4 +57,6 @@ Or complex data types with the `data` keyword. (Using the above type alias)
 data Shape = Circle R R R | Square R R R R
 ```
 This declares a type shape which can be a *circle* **or** a *square*.
-And also provides constructors for both of those in the form of 
+And also provides constructors for both of those (R R R and R R R R).
+
+![Lambda calculus
