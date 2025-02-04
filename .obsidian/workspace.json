@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "std",
+                "query": "overload",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,10 +228,10 @@
   "active": "1df852c105d4b2eb",
   "lastOpenFiles": [
     "(200) Notes/Operator overloading(CPP).md",
+    "(500) Root/Launch.md",
     "(200) Notes/std thread.md",
     "(200) Notes/CPP.md",
     "(200) Notes/Haskell.md",
-    "(500) Root/Launch.md",
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
     "(200) Notes/System.md",
