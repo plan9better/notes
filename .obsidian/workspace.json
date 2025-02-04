@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Explicit.md",
+                "file": "(200) Notes/Types (CPP).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Explicit"
+              "title": "Types (CPP)"
             }
           }
         ],
