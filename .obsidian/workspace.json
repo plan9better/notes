@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/std thread.md",
+                "file": "(200) Notes/Explicit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "std thread"
+              "title": "Explicit"
             }
           }
         ],
@@ -252,8 +252,9 @@
   "active": "76f52ca204967291",
   "lastOpenFiles": [
     "(200) Notes/CPP.md",
-    "(200) Notes/Lambda Expressions.md",
+    "(200) Notes/Explicit.md",
     "(200) Notes/std thread.md",
+    "(200) Notes/Lambda Expressions.md",
     "(200) Notes/Passing functions as arguments.md",
     "(200) Notes/Operator overloading(CPP).md",
     "(500) Root/Launch.md",
@@ -276,7 +277,6 @@
     "(200) Notes/x64.md",
     "(500) Root/ASD.md",
     "(300) Permanent/asd.md",
-    "(300) Permanent/3. Longest Substring Without Repeating Characters.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
