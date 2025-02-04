@@ -21,4 +21,5 @@ When not using *named* variables make sure to avoid accidentaly defining a funct
 std::thread my_thread(background_task());
 ```
 declares a `my_thread` function that takes a single parameter of type *pointer-to-a-function-taking-no-parameters-and-returning-a-background_task-object*.
+More about [[Passing functions as arguments]].
 
