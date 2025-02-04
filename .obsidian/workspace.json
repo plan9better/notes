@@ -11,34 +11,40 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "dbd32fb831c3b453",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4edd8f9ceb3f87c0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(500) Root/Launch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Launch"
+            }
+          },
+          {
+            "id": "1df852c105d4b2eb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +212,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4edd8f9ceb3f87c0",
+  "active": "1df852c105d4b2eb",
   "lastOpenFiles": [
+    "(500) Root/Launch.md",
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
     "(200) Notes/System.md",
@@ -216,7 +223,6 @@
     "(200) Notes/State variables.md",
     "(200) Notes/Classical physics.md",
     "(200) Notes/Physics.md",
-    "(500) Root/Launch.md",
     "(200) Notes/CPP.md",
     "(200) Notes/std unordered_set.md",
     "(200) Notes/Unity.md",
