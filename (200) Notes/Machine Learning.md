@@ -1,3 +1,4 @@
 - [[Gradient descent]]
 - [[Linear regression]]
+- [[LLM]]
 - 

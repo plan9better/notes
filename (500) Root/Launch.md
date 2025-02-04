@@ -1,5 +1,5 @@
 - [[Data Structures and Algorithms]]
-- [[CompProg]]
+- [[Competitions]]
 - [[Cryptohack]]
 - [[Machine Learning]]
 - [Math](Math.md)
@@ -8,7 +8,6 @@
 - [[Nushell]]
 - [[Rust]]
 - [[Nix]]
-- [[Competitions]]
 - [[Cloud]]
 - [System Admin](System%20Admin.md)
 - [Projects](Projects.md)
