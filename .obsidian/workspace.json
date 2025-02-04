@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Operator overloading.md",
+                "file": "(200) Notes/std thread.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operator overloading"
+              "title": "std thread"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpp",
+                "query": "std",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +227,9 @@
   },
   "active": "1df852c105d4b2eb",
   "lastOpenFiles": [
+    "(200) Notes/Operator overloading(CPP).md",
+    "(200) Notes/std thread.md",
     "(200) Notes/CPP.md",
-    "(200) Notes/Operator overloading.md",
     "(200) Notes/Haskell.md",
     "(500) Root/Launch.md",
     "(200) Notes/Conservation law.md",
@@ -252,7 +253,6 @@
     "(300) Permanent/3. Longest Substring Without Repeating Characters.md",
     "(200) Notes/Autounnatend.xml.md",
     "(200) Notes/Market volatility.md",
-    "(200) Notes/Django.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
