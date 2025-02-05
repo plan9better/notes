@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(500) Root/Launch.md",
+                "file": "(200) Notes/Lambda Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Launch"
+              "title": "Lambda Calculus"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overload",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,9 +227,11 @@
   },
   "active": "83db6b089e39917e",
   "lastOpenFiles": [
+    "(200) Notes/Math.md",
+    "(200) Notes/Lambda Calculus.md",
+    "(500) Root/Launch.md",
     "(200) Notes/LLM.md",
     "(200) Notes/Machine Learning.md",
-    "(500) Root/Launch.md",
     "(200) Notes/Types (CPP).md",
     "(200) Notes/CPP.md",
     "(200) Notes/Explicit.md",
@@ -250,9 +252,7 @@
     "(200) Notes/Unity.md",
     "(200) Notes/Gaussian processes.md",
     "(200) Notes/Statistics.md",
-    "(200) Notes/Math.md",
     "(200) Notes/Ownership system (Rust).md",
-    "(200) Notes/Rust.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",

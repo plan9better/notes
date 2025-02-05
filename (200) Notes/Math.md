@@ -1,2 +1,4 @@
 - [[Statistics]]
 - [[Category Theory]]
+- [[Lambda Calculus]]
+- 
