@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Lambda Calculus.md",
+                "file": "(200) Notes/Gdb.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lambda Calculus"
+              "title": "Gdb"
             }
           }
         ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,8 +227,9 @@
   },
   "active": "83db6b089e39917e",
   "lastOpenFiles": [
-    "(200) Notes/Math.md",
+    "(200) Notes/C.md",
     "(200) Notes/Lambda Calculus.md",
+    "(200) Notes/Math.md",
     "(500) Root/Launch.md",
     "(200) Notes/LLM.md",
     "(200) Notes/Machine Learning.md",
@@ -252,7 +253,6 @@
     "(200) Notes/Unity.md",
     "(200) Notes/Gaussian processes.md",
     "(200) Notes/Statistics.md",
-    "(200) Notes/Ownership system (Rust).md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
