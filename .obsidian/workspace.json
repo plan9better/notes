@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Group Anagrams.md",
+                "file": "(200) Notes/Haskell.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Group Anagrams"
+              "title": "Haskell"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anagrams",
+                "query": "haskell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,8 +251,9 @@
   },
   "active": "7d0e8091c4125d58",
   "lastOpenFiles": [
-    "(200) Notes/CompProg.md",
+    "(200) Notes/Haskell.md",
     "(200) Notes/Group Anagrams.md",
+    "(200) Notes/CompProg.md",
     "(200) Notes/Gdb.md",
     "(200) Notes/Competitions.md",
     "(500) Root/Launch.md",
@@ -268,7 +269,6 @@
     "(200) Notes/Lambda Expressions.md",
     "(200) Notes/Passing functions as arguments.md",
     "(200) Notes/Operator overloading(CPP).md",
-    "(200) Notes/Haskell.md",
     "(200) Notes/Conservation law.md",
     "(200) Notes/Dynamical system.md",
     "(200) Notes/System.md",
