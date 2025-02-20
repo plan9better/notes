@@ -35,12 +35,24 @@
             "id": "12e7141ddf80c865",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "(200) Notes/Nushell.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Nushell"
             }
           }
         ],
@@ -76,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gdb",
+                "query": "nushel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
