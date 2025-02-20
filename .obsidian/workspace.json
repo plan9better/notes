@@ -32,45 +32,19 @@
             }
           },
           {
-            "id": "d67316d7c5c7f194",
+            "id": "12e7141ddf80c865",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "release-notes",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "currentVersion": "1.8.7"
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "13768830a7459dc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13768830a7459dc8",
+  "active": "12e7141ddf80c865",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "(500) Root/Launch.md",
+    "conflict-files-obsidian-git.md",
     "(200) Notes/Group Anagrams.md",
     "(200) Notes/Gdb.md",
     "(200) Notes/C.md",
