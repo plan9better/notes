@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Launch"
             }
-          },
-          {
-            "id": "12e7141ddf80c865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(200) Notes/Nushell.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Nushell"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12e7141ddf80c865",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(200) Notes/Nushell.md",
     "(500) Root/Launch.md",
     "conflict-files-obsidian-git.md",
     "(200) Notes/Group Anagrams.md",
@@ -252,7 +228,6 @@
     "(200) Notes/State variables.md",
     "(200) Notes/Classical physics.md",
     "(200) Notes/Physics.md",
-    "(200) Notes/std unordered_set.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
