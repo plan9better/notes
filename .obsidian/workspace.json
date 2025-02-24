@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(200) Notes/Nixpgs modules.md",
+                "file": "(500) Root/Launch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nixpgs modules"
+              "title": "Launch"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "(200) Notes/Nixpgs modules.md",
     "(200) Notes/Nix.md",
     "(200) Notes/Nixpkgs.md",
     "(500) Root/Launch.md",
@@ -227,7 +228,6 @@
     "(200) Notes/System.md",
     "(200) Notes/State of a system.md",
     "(200) Notes/Dynamical law.md",
-    "(200) Notes/State variables.md",
     "(200) Notes/System Admin",
     "(200) Notes/Stock Market",
     "(200) Notes/Python",
